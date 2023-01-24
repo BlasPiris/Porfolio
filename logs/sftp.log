@@ -1,0 +1,1074 @@
+Jan 24 16:05:11 10.71.56.0 u108109551 Connection from 10.71.56.0 port 61542 on 82.165.88.218 port 22
+Jan 24 16:05:12 10.71.56.0 u108109551 Accepted password for u108109551 from 10.71.56.0 port 61542 ssh2
+Jan 24 16:05:12 10.71.56.0 u108109551 Starting session: subsystem 'sftp' for u108109551 from 10.71.56.0 port 61542 id 0
+Jan 24 16:05:12 10.71.56.0 u108109551 session opened for local user u108109551 from [10.71.56.0]
+Jan 24 16:05:12 10.71.56.0 u108109551 sent status No such file
+Jan 24 16:05:41 10.71.56.0 u108109551 open "/index.html" flags READ mode 0666
+Jan 24 16:05:41 10.71.56.0 u108109551 open "/LICENSE.txt" flags READ mode 0666
+Jan 24 16:05:41 10.71.56.0 u108109551 open "/READ-ME.txt" flags READ mode 0666
+Jan 24 16:05:41 10.71.56.0 u108109551 open "/logs/.htaccess" flags READ mode 0666
+Jan 24 16:05:42 10.71.56.0 u108109551 close "/index.html" bytes read 48950 written 0
+Jan 24 16:05:42 10.71.56.0 u108109551 [10.71.56.0|get|1|48950|0|0|0|2f696e6465782e68746d6c|]
+Jan 24 16:05:42 10.71.56.0 u108109551 close "/LICENSE.txt" bytes read 1309 written 0
+Jan 24 16:05:42 10.71.56.0 u108109551 [10.71.56.0|get|1|1309|0|0|0|2f4c4943454e53452e747874|]
+Jan 24 16:05:42 10.71.56.0 u108109551 open "/logs/info.pl" flags READ mode 0666
+Jan 24 16:05:42 10.71.56.0 u108109551 open "/logs/info.php5" flags READ mode 0666
+Jan 24 16:05:42 10.71.56.0 u108109551 close "/READ-ME.txt" bytes read 547 written 0
+Jan 24 16:05:42 10.71.56.0 u108109551 [10.71.56.0|get|1|547|0|0|0|2f524541442d4d452e747874|]
+Jan 24 16:05:42 10.71.56.0 u108109551 open "/logs/info.py" flags READ mode 0666
+Jan 24 16:05:42 10.71.56.0 u108109551 close "/logs/.htaccess" bytes read 268 written 0
+Jan 24 16:05:42 10.71.56.0 u108109551 [10.71.56.0|get|1|268|0|0|0|2f6c6f67732f2e6874616363657373|]
+Jan 24 16:05:42 10.71.56.0 u108109551 close "/logs/info.pl" bytes read 4176 written 0
+Jan 24 16:05:42 10.71.56.0 u108109551 [10.71.56.0|get|0|4176|0|0|0|2f6c6f67732f696e666f2e706c|]
+Jan 24 16:05:42 10.71.56.0 u108109551 close "/logs/info.php5" bytes read 21 written 0
+Jan 24 16:05:42 10.71.56.0 u108109551 [10.71.56.0|get|0|21|0|0|0|2f6c6f67732f696e666f2e70687035|]
+Jan 24 16:05:42 10.71.56.0 u108109551 close "/logs/info.py" bytes read 6384 written 0
+Jan 24 16:05:42 10.71.56.0 u108109551 [10.71.56.0|get|0|6384|0|0|0|2f6c6f67732f696e666f2e7079|]
+Jan 24 16:05:42 10.71.56.0 u108109551 open "/logs/traffic.db" flags READ mode 0666
+Jan 24 16:05:42 10.71.56.0 u108109551 open "/logs/last_traffic" flags READ mode 0666
+Jan 24 16:05:42 10.71.56.0 u108109551 open "/logs/access.log.51.gz" flags READ mode 0666
+Jan 24 16:05:42 10.71.56.0 u108109551 open "/logs/access.log.03.3.gz" flags READ mode 0666
+Jan 24 16:05:42 10.71.56.0 u108109551 close "/logs/last_traffic" bytes read 0 written 0
+Jan 24 16:05:42 10.71.56.0 u108109551 [10.71.56.0|get|0|0|0|0|0|2f6c6f67732f6c6173745f74726166666963|]
+Jan 24 16:05:42 10.71.56.0 u108109551 open "/logs/access.log.02.gz" flags READ mode 0666
+Jan 24 16:05:42 10.71.56.0 u108109551 close "/logs/access.log.51.gz" bytes read 10418 written 0
+Jan 24 16:05:42 10.71.56.0 u108109551 [10.71.56.0|get|0|10418|0|0|0|2f6c6f67732f6163636573732e6c6f672e35312e677a|]
+Jan 24 16:05:42 10.71.56.0 u108109551 close "/logs/access.log.03.3.gz" bytes read 1625 written 0
+Jan 24 16:05:42 10.71.56.0 u108109551 [10.71.56.0|get|0|1625|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e332e677a|]
+Jan 24 16:05:42 10.71.56.0 u108109551 open "/logs/access.log.49.gz" flags READ mode 0666
+Jan 24 16:05:42 10.71.56.0 u108109551 close "/logs/traffic.db" bytes read 28672 written 0
+Jan 24 16:05:42 10.71.56.0 u108109551 [10.71.56.0|get|0|28672|0|0|0|2f6c6f67732f747261666669632e6462|]
+Jan 24 16:05:42 10.71.56.0 u108109551 open "/logs/access.log.03.1.gz" flags READ mode 0666
+Jan 24 16:05:42 10.71.56.0 u108109551 open "/logs/access.log.03.4.gz" flags READ mode 0666
+Jan 24 16:05:42 10.71.56.0 u108109551 close "/logs/access.log.02.gz" bytes read 11846 written 0
+Jan 24 16:05:42 10.71.56.0 u108109551 [10.71.56.0|get|0|11846|0|0|0|2f6c6f67732f6163636573732e6c6f672e30322e677a|]
+Jan 24 16:05:42 10.71.56.0 u108109551 open "/logs/access.log.04.2" flags READ mode 0666
+Jan 24 16:05:42 10.71.56.0 u108109551 close "/logs/access.log.49.gz" bytes read 11335 written 0
+Jan 24 16:05:42 10.71.56.0 u108109551 [10.71.56.0|get|0|11335|0|0|0|2f6c6f67732f6163636573732e6c6f672e34392e677a|]
+Jan 24 16:05:42 10.71.56.0 u108109551 close "/logs/access.log.03.1.gz" bytes read 1569 written 0
+Jan 24 16:05:42 10.71.56.0 u108109551 [10.71.56.0|get|0|1569|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e312e677a|]
+Jan 24 16:05:42 10.71.56.0 u108109551 close "/logs/access.log.03.4.gz" bytes read 2199 written 0
+Jan 24 16:05:42 10.71.56.0 u108109551 [10.71.56.0|get|0|2199|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e342e677a|]
+Jan 24 16:05:42 10.71.56.0 u108109551 open "/logs/access.log.04.1.gz" flags READ mode 0666
+Jan 24 16:05:42 10.71.56.0 u108109551 open "/logs/access.log.03.5.gz" flags READ mode 0666
+Jan 24 16:05:42 10.71.56.0 u108109551 open "/logs/access.log.03.6.gz" flags READ mode 0666
+Jan 24 16:05:43 10.71.56.0 u108109551 close "/logs/access.log.04.2" bytes read 55847 written 0
+Jan 24 16:05:43 10.71.56.0 u108109551 [10.71.56.0|get|1|55847|0|0|0|2f6c6f67732f6163636573732e6c6f672e30342e32|]
+Jan 24 16:05:43 10.71.56.0 u108109551 close "/logs/access.log.04.1.gz" bytes read 2094 written 0
+Jan 24 16:05:43 10.71.56.0 u108109551 [10.71.56.0|get|1|2094|0|0|0|2f6c6f67732f6163636573732e6c6f672e30342e312e677a|]
+Jan 24 16:05:43 10.71.56.0 u108109551 open "/logs/sftp.log.48.gz" flags READ mode 0666
+Jan 24 16:05:43 10.71.56.0 u108109551 open "/logs/access.log.48.gz" flags READ mode 0666
+Jan 24 16:05:43 10.71.56.0 u108109551 close "/logs/access.log.03.5.gz" bytes read 2480 written 0
+Jan 24 16:05:43 10.71.56.0 u108109551 [10.71.56.0|get|1|2480|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e352e677a|]
+Jan 24 16:05:43 10.71.56.0 u108109551 open "/logs/access.log.52.gz" flags READ mode 0666
+Jan 24 16:05:43 10.71.56.0 u108109551 close "/logs/access.log.03.6.gz" bytes read 1590 written 0
+Jan 24 16:05:43 10.71.56.0 u108109551 [10.71.56.0|get|1|1590|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e362e677a|]
+Jan 24 16:05:43 10.71.56.0 u108109551 open "/logs/access.log.03.7.gz" flags READ mode 0666
+Jan 24 16:05:43 10.71.56.0 u108109551 close "/logs/sftp.log.48.gz" bytes read 6852 written 0
+Jan 24 16:05:43 10.71.56.0 u108109551 [10.71.56.0|get|0|6852|0|0|0|2f6c6f67732f736674702e6c6f672e34382e677a|]
+Jan 24 16:05:43 10.71.56.0 u108109551 open "/logs/access.log.50.gz" flags READ mode 0666
+Jan 24 16:05:43 10.71.56.0 u108109551 close "/logs/access.log.48.gz" bytes read 21069 written 0
+Jan 24 16:05:43 10.71.56.0 u108109551 [10.71.56.0|get|0|21069|0|0|0|2f6c6f67732f6163636573732e6c6f672e34382e677a|]
+Jan 24 16:05:43 10.71.56.0 u108109551 open "/logs/sftp.log" flags READ mode 0666
+Jan 24 16:05:43 10.71.56.0 u108109551 close "/logs/access.log.52.gz" bytes read 14191 written 0
+Jan 24 16:05:43 10.71.56.0 u108109551 [10.71.56.0|get|0|14191|0|0|0|2f6c6f67732f6163636573732e6c6f672e35322e677a|]
+Jan 24 16:05:43 10.71.56.0 u108109551 open "/logs/access.log.01.gz" flags READ mode 0666
+Jan 24 16:05:43 10.71.56.0 u108109551 close "/logs/access.log.03.7.gz" bytes read 2075 written 0
+Jan 24 16:05:43 10.71.56.0 u108109551 [10.71.56.0|get|0|2075|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e372e677a|]
+Jan 24 16:05:43 10.71.56.0 u108109551 open "/logs/access.log.03.2.gz" flags READ mode 0666
+Jan 24 16:05:43 10.71.56.0 u108109551 close "/logs/access.log.50.gz" bytes read 9920 written 0
+Jan 24 16:05:43 10.71.56.0 u108109551 [10.71.56.0|get|0|9920|0|0|0|2f6c6f67732f6163636573732e6c6f672e35302e677a|]
+Jan 24 16:05:43 10.71.56.0 u108109551 close "/logs/sftp.log" bytes read 7442 written 0
+Jan 24 16:05:43 10.71.56.0 u108109551 [10.71.56.0|get|0|7442|0|0|0|2f6c6f67732f736674702e6c6f67|]
+Jan 24 16:05:43 10.71.56.0 u108109551 open "/construccion/index.html" flags READ mode 0666
+Jan 24 16:05:43 10.71.56.0 u108109551 open "/construccion/jquery-1.9.1.min.js" flags READ mode 0666
+Jan 24 16:05:43 10.71.56.0 u108109551 close "/logs/access.log.01.gz" bytes read 10737 written 0
+Jan 24 16:05:43 10.71.56.0 u108109551 [10.71.56.0|get|0|10737|0|0|0|2f6c6f67732f6163636573732e6c6f672e30312e677a|]
+Jan 24 16:05:43 10.71.56.0 u108109551 close "/logs/access.log.03.2.gz" bytes read 1958 written 0
+Jan 24 16:05:43 10.71.56.0 u108109551 [10.71.56.0|get|0|1958|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e322e677a|]
+Jan 24 16:05:43 10.71.56.0 u108109551 open "/construccion/nicepage.css" flags READ mode 0666
+Jan 24 16:05:43 10.71.56.0 u108109551 open "/construccion/nicepage.js" flags READ mode 0666
+Jan 24 16:05:43 10.71.56.0 u108109551 close "/construccion/index.html" bytes read 3174 written 0
+Jan 24 16:05:43 10.71.56.0 u108109551 [10.71.56.0|get|0|3174|0|0|0|2f636f6e737472756363696f6e2f696e6465782e68746d6c|]
+Jan 24 16:05:43 10.71.56.0 u108109551 open "/construccion/Page-8.css" flags READ mode 0666
+Jan 24 16:05:43 10.71.56.0 u108109551 close "/construccion/jquery-1.9.1.min.js" bytes read 92629 written 0
+Jan 24 16:05:43 10.71.56.0 u108109551 [10.71.56.0|get|0|92629|0|0|0|2f636f6e737472756363696f6e2f6a71756572792d312e392e312e6d696e2e6a73|]
+Jan 24 16:05:43 10.71.56.0 u108109551 open "/construccion/Password-Template.css" flags READ mode 0666
+Jan 24 16:05:43 10.71.56.0 u108109551 close "/construccion/Page-8.css" bytes read 954 written 0
+Jan 24 16:05:43 10.71.56.0 u108109551 [10.71.56.0|get|0|954|0|0|0|2f636f6e737472756363696f6e2f506167652d382e637373|]
+Jan 24 16:05:43 10.71.56.0 u108109551 open "/img/blog-1.jpg" flags READ mode 0666
+Jan 24 16:05:44 10.71.56.0 u108109551 close "/construccion/Password-Template.css" bytes read 683 written 0
+Jan 24 16:05:44 10.71.56.0 u108109551 [10.71.56.0|get|1|683|0|0|0|2f636f6e737472756363696f6e2f50617373776f72642d54656d706c6174652e637373|]
+Jan 24 16:05:44 10.71.56.0 u108109551 close "/construccion/nicepage.js" bytes read 241000 written 0
+Jan 24 16:05:44 10.71.56.0 u108109551 [10.71.56.0|get|1|241000|0|0|0|2f636f6e737472756363696f6e2f6e696365706167652e6a73|]
+Jan 24 16:05:44 10.71.56.0 u108109551 close "/img/blog-1.jpg" bytes read 44639 written 0
+Jan 24 16:05:44 10.71.56.0 u108109551 [10.71.56.0|get|1|44639|0|0|0|2f696d672f626c6f672d312e6a7067|]
+Jan 24 16:05:44 10.71.56.0 u108109551 open "/img/about.jpg" flags READ mode 0666
+Jan 24 16:05:44 10.71.56.0 u108109551 open "/img/blog-2.jpg" flags READ mode 0666
+Jan 24 16:05:44 10.71.56.0 u108109551 open "/img/contact.jpg" flags READ mode 0666
+Jan 24 16:05:44 10.71.56.0 u108109551 close "/img/about.jpg" bytes read 73774 written 0
+Jan 24 16:05:44 10.71.56.0 u108109551 [10.71.56.0|get|0|73774|0|0|0|2f696d672f61626f75742e6a7067|]
+Jan 24 16:05:44 10.71.56.0 u108109551 close "/img/blog-2.jpg" bytes read 49726 written 0
+Jan 24 16:05:44 10.71.56.0 u108109551 [10.71.56.0|get|0|49726|0|0|0|2f696d672f626c6f672d322e6a7067|]
+Jan 24 16:05:44 10.71.56.0 u108109551 open "/img/hero-bg.jpg" flags READ mode 0666
+Jan 24 16:05:44 10.71.56.0 u108109551 open "/img/hero.png" flags READ mode 0666
+Jan 24 16:05:44 10.71.56.0 u108109551 close "/img/hero-bg.jpg" bytes read 48999 written 0
+Jan 24 16:05:44 10.71.56.0 u108109551 [10.71.56.0|get|0|48999|0|0|0|2f696d672f6865726f2d62672e6a7067|]
+Jan 24 16:05:44 10.71.56.0 u108109551 open "/img/portfolio-1.jpg" flags READ mode 0666
+Jan 24 16:05:44 10.71.56.0 u108109551 close "/img/contact.jpg" bytes read 138156 written 0
+Jan 24 16:05:44 10.71.56.0 u108109551 [10.71.56.0|get|0|138156|0|0|0|2f696d672f636f6e746163742e6a7067|]
+Jan 24 16:05:44 10.71.56.0 u108109551 open "/img/portfolio-2.jpg" flags READ mode 0666
+Jan 24 16:05:44 10.71.56.0 u108109551 close "/img/portfolio-1.jpg" bytes read 19705 written 0
+Jan 24 16:05:44 10.71.56.0 u108109551 [10.71.56.0|get|0|19705|0|0|0|2f696d672f706f7274666f6c696f2d312e6a7067|]
+Jan 24 16:05:44 10.71.56.0 u108109551 open "/img/portfolio-3.jpg" flags READ mode 0666
+Jan 24 16:05:44 10.71.56.0 u108109551 close "/img/portfolio-2.jpg" bytes read 38804 written 0
+Jan 24 16:05:44 10.71.56.0 u108109551 [10.71.56.0|get|0|38804|0|0|0|2f696d672f706f7274666f6c696f2d322e6a7067|]
+Jan 24 16:05:44 10.71.56.0 u108109551 open "/img/portfolio-4.jpg" flags READ mode 0666
+Jan 24 16:05:45 10.71.56.0 u108109551 close "/img/portfolio-3.jpg" bytes read 19390 written 0
+Jan 24 16:05:45 10.71.56.0 u108109551 [10.71.56.0|get|1|19390|0|0|0|2f696d672f706f7274666f6c696f2d332e6a7067|]
+Jan 24 16:05:45 10.71.56.0 u108109551 open "/img/portfolio-5.jpg" flags READ mode 0666
+Jan 24 16:05:45 10.71.56.0 u108109551 close "/img/portfolio-4.jpg" bytes read 28300 written 0
+Jan 24 16:05:45 10.71.56.0 u108109551 [10.71.56.0|get|1|28300|0|0|0|2f696d672f706f7274666f6c696f2d342e6a7067|]
+Jan 24 16:05:45 10.71.56.0 u108109551 open "/img/portfolio-6.jpg" flags READ mode 0666
+Jan 24 16:05:45 10.71.56.0 u108109551 close "/construccion/nicepage.css" bytes read 1238282 written 0
+Jan 24 16:05:45 10.71.56.0 u108109551 [10.71.56.0|get|2|1238282|0|0|0|2f636f6e737472756363696f6e2f6e696365706167652e637373|]
+Jan 24 16:05:45 10.71.56.0 u108109551 open "/img/team-1.jpg" flags READ mode 0666
+Jan 24 16:05:45 10.71.56.0 u108109551 close "/img/portfolio-5.jpg" bytes read 16734 written 0
+Jan 24 16:05:45 10.71.56.0 u108109551 [10.71.56.0|get|0|16734|0|0|0|2f696d672f706f7274666f6c696f2d352e6a7067|]
+Jan 24 16:05:45 10.71.56.0 u108109551 open "/img/team-2.jpg" flags READ mode 0666
+Jan 24 16:05:45 10.71.56.0 u108109551 close "/img/portfolio-6.jpg" bytes read 26002 written 0
+Jan 24 16:05:45 10.71.56.0 u108109551 [10.71.56.0|get|0|26002|0|0|0|2f696d672f706f7274666f6c696f2d362e6a7067|]
+Jan 24 16:05:45 10.71.56.0 u108109551 open "/img/team-3.jpg" flags READ mode 0666
+Jan 24 16:05:45 10.71.56.0 u108109551 close "/img/team-1.jpg" bytes read 14197 written 0
+Jan 24 16:05:45 10.71.56.0 u108109551 [10.71.56.0|get|0|14197|0|0|0|2f696d672f7465616d2d312e6a7067|]
+Jan 24 16:05:45 10.71.56.0 u108109551 open "/img/team-4.jpg" flags READ mode 0666
+Jan 24 16:05:45 10.71.56.0 u108109551 close "/img/team-2.jpg" bytes read 15877 written 0
+Jan 24 16:05:45 10.71.56.0 u108109551 [10.71.56.0|get|0|15877|0|0|0|2f696d672f7465616d2d322e6a7067|]
+Jan 24 16:05:45 10.71.56.0 u108109551 open "/img/testimonial-1.jpg" flags READ mode 0666
+Jan 24 16:05:45 10.71.56.0 u108109551 close "/img/team-3.jpg" bytes read 20643 written 0
+Jan 24 16:05:45 10.71.56.0 u108109551 [10.71.56.0|get|0|20643|0|0|0|2f696d672f7465616d2d332e6a7067|]
+Jan 24 16:05:45 10.71.56.0 u108109551 open "/img/testimonial-2.jpg" flags READ mode 0666
+Jan 24 16:05:45 10.71.56.0 u108109551 close "/img/team-4.jpg" bytes read 10885 written 0
+Jan 24 16:05:45 10.71.56.0 u108109551 [10.71.56.0|get|0|10885|0|0|0|2f696d672f7465616d2d342e6a7067|]
+Jan 24 16:05:45 10.71.56.0 u108109551 open "/img/testimonial-3.jpg" flags READ mode 0666
+Jan 24 16:05:45 10.71.56.0 u108109551 close "/img/testimonial-1.jpg" bytes read 5183 written 0
+Jan 24 16:05:45 10.71.56.0 u108109551 [10.71.56.0|get|0|5183|0|0|0|2f696d672f74657374696d6f6e69616c2d312e6a7067|]
+Jan 24 16:05:45 10.71.56.0 u108109551 open "/js/main.js" flags READ mode 0666
+Jan 24 16:05:45 10.71.56.0 u108109551 close "/img/testimonial-2.jpg" bytes read 4421 written 0
+Jan 24 16:05:45 10.71.56.0 u108109551 [10.71.56.0|get|0|4421|0|0|0|2f696d672f74657374696d6f6e69616c2d322e6a7067|]
+Jan 24 16:05:45 10.71.56.0 u108109551 open "/mail/contact.js" flags READ mode 0666
+Jan 24 16:05:45 10.71.56.0 u108109551 close "/img/testimonial-3.jpg" bytes read 4945 written 0
+Jan 24 16:05:45 10.71.56.0 u108109551 [10.71.56.0|get|0|4945|0|0|0|2f696d672f74657374696d6f6e69616c2d332e6a7067|]
+Jan 24 16:05:45 10.71.56.0 u108109551 close "/js/main.js" bytes read 2907 written 0
+Jan 24 16:05:45 10.71.56.0 u108109551 [10.71.56.0|get|0|2907|0|0|0|2f6a732f6d61696e2e6a73|]
+Jan 24 16:05:45 10.71.56.0 u108109551 open "/mail/contact.php" flags READ mode 0666
+Jan 24 16:05:45 10.71.56.0 u108109551 open "/mail/jqBootstrapValidation.min.js" flags READ mode 0666
+Jan 24 16:05:45 10.71.56.0 u108109551 close "/mail/contact.js" bytes read 2598 written 0
+Jan 24 16:05:45 10.71.56.0 u108109551 [10.71.56.0|get|0|2598|0|0|0|2f6d61696c2f636f6e746163742e6a73|]
+Jan 24 16:05:45 10.71.56.0 u108109551 open "/css/style.css" flags READ mode 0666
+Jan 24 16:05:45 10.71.56.0 u108109551 close "/mail/contact.php" bytes read 789 written 0
+Jan 24 16:05:45 10.71.56.0 u108109551 [10.71.56.0|get|0|789|0|0|0|2f6d61696c2f636f6e746163742e706870|]
+Jan 24 16:05:45 10.71.56.0 u108109551 open "/logs/traffic.html/.htaccess" flags READ mode 0666
+Jan 24 16:05:45 10.71.56.0 u108109551 close "/css/style.css" bytes read 31505 written 0
+Jan 24 16:05:45 10.71.56.0 u108109551 [10.71.56.0|get|0|31505|0|0|0|2f6373732f7374796c652e637373|]
+Jan 24 16:05:45 10.71.56.0 u108109551 open "/logs/traffic.html/index.html" flags READ mode 0666
+Jan 24 16:05:45 10.71.56.0 u108109551 close "/mail/jqBootstrapValidation.min.js" bytes read 14877 written 0
+Jan 24 16:05:45 10.71.56.0 u108109551 [10.71.56.0|get|0|14877|0|0|0|2f6d61696c2f6a71426f6f74737472617056616c69646174696f6e2e6d696e2e6a73|]
+Jan 24 16:05:45 10.71.56.0 u108109551 open "/logs/traffic.html/04.html" flags READ mode 0666
+Jan 24 16:05:46 10.71.56.0 u108109551 close "/logs/traffic.html/.htaccess" bytes read 23 written 0
+Jan 24 16:05:46 10.71.56.0 u108109551 [10.71.56.0|get|1|23|0|0|0|2f6c6f67732f747261666669632e68746d6c2f2e6874616363657373|]
+Jan 24 16:05:46 10.71.56.0 u108109551 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Jan 24 16:05:46 10.71.56.0 u108109551 sent status Permission denied
+Jan 24 16:05:46 10.71.56.0 u108109551 close "/logs/traffic.html/index.html" bytes read 6143 written 0
+Jan 24 16:05:46 10.71.56.0 u108109551 [10.71.56.0|get|1|6143|0|0|0|2f6c6f67732f747261666669632e68746d6c2f696e6465782e68746d6c|]
+Jan 24 16:05:46 10.71.56.0 u108109551 open "/logs/traffic.html/05.html" flags READ mode 0666
+Jan 24 16:05:46 10.71.56.0 u108109551 close "/logs/traffic.html/04.html" bytes read 5061 written 0
+Jan 24 16:05:46 10.71.56.0 u108109551 [10.71.56.0|get|1|5061|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30342e68746d6c|]
+Jan 24 16:05:46 10.71.56.0 u108109551 open "/logs/traffic.html/06.html" flags READ mode 0666
+Jan 24 16:05:46 10.71.56.0 u108109551 open "/logs/traffic.html/07.html" flags READ mode 0666
+Jan 24 16:05:46 10.71.56.0 u108109551 close "/logs/traffic.html/05.html" bytes read 9937 written 0
+Jan 24 16:05:46 10.71.56.0 u108109551 [10.71.56.0|get|0|9937|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30352e68746d6c|]
+Jan 24 16:05:46 10.71.56.0 u108109551 open "/logs/traffic.html/08.html" flags READ mode 0666
+Jan 24 16:05:46 10.71.56.0 u108109551 close "/logs/traffic.html/06.html" bytes read 9599 written 0
+Jan 24 16:05:46 10.71.56.0 u108109551 [10.71.56.0|get|0|9599|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30362e68746d6c|]
+Jan 24 16:05:46 10.71.56.0 u108109551 open "/logs/traffic.html/09.html" flags READ mode 0666
+Jan 24 16:05:46 10.71.56.0 u108109551 close "/logs/traffic.html/07.html" bytes read 9841 written 0
+Jan 24 16:05:46 10.71.56.0 u108109551 [10.71.56.0|get|0|9841|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30372e68746d6c|]
+Jan 24 16:05:46 10.71.56.0 u108109551 open "/logs/traffic.html/10.html" flags READ mode 0666
+Jan 24 16:05:46 10.71.56.0 u108109551 close "/logs/traffic.html/08.html" bytes read 9833 written 0
+Jan 24 16:05:46 10.71.56.0 u108109551 [10.71.56.0|get|0|9833|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30382e68746d6c|]
+Jan 24 16:05:46 10.71.56.0 u108109551 open "/logs/traffic.html/11.html" flags READ mode 0666
+Jan 24 16:05:46 10.71.56.0 u108109551 close "/logs/traffic.html/09.html" bytes read 9543 written 0
+Jan 24 16:05:46 10.71.56.0 u108109551 [10.71.56.0|get|0|9543|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30392e68746d6c|]
+Jan 24 16:05:46 10.71.56.0 u108109551 open "/logs/traffic.html/12.html" flags READ mode 0666
+Jan 24 16:05:46 10.71.56.0 u108109551 close "/logs/traffic.html/10.html" bytes read 9841 written 0
+Jan 24 16:05:46 10.71.56.0 u108109551 [10.71.56.0|get|0|9841|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31302e68746d6c|]
+Jan 24 16:05:46 10.71.56.0 u108109551 open "/logs/traffic.html/01.html" flags READ mode 0666
+Jan 24 16:05:46 10.71.56.0 u108109551 close "/logs/traffic.html/11.html" bytes read 9559 written 0
+Jan 24 16:05:46 10.71.56.0 u108109551 [10.71.56.0|get|0|9559|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31312e68746d6c|]
+Jan 24 16:05:46 10.71.56.0 u108109551 open "/construccion/images/60028-Converted.png" flags READ mode 0666
+Jan 24 16:05:46 10.71.56.0 u108109551 close "/logs/traffic.html/12.html" bytes read 9965 written 0
+Jan 24 16:05:46 10.71.56.0 u108109551 [10.71.56.0|get|0|9965|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31322e68746d6c|]
+Jan 24 16:05:46 10.71.56.0 u108109551 open "/lib/animate/animate.css" flags READ mode 0666
+Jan 24 16:05:46 10.71.56.0 u108109551 close "/logs/traffic.html/01.html" bytes read 7947 written 0
+Jan 24 16:05:46 10.71.56.0 u108109551 [10.71.56.0|get|0|7947|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30312e68746d6c|]
+Jan 24 16:05:46 10.71.56.0 u108109551 open "/lib/animate/animate.min.css" flags READ mode 0666
+Jan 24 16:05:46 10.71.56.0 u108109551 close "/construccion/images/60028-Converted.png" bytes read 24223 written 0
+Jan 24 16:05:46 10.71.56.0 u108109551 [10.71.56.0|get|0|24223|0|0|0|2f636f6e737472756363696f6e2f696d616765732f36303032382d436f6e7665727465642e706e67|]
+Jan 24 16:05:46 10.71.56.0 u108109551 open "/lib/easing/easing.min.js" flags READ mode 0666
+Jan 24 16:05:46 10.71.56.0 u108109551 close "/lib/animate/animate.css" bytes read 25427 written 0
+Jan 24 16:05:46 10.71.56.0 u108109551 [10.71.56.0|get|0|25427|0|0|0|2f6c69622f616e696d6174652f616e696d6174652e637373|]
+Jan 24 16:05:46 10.71.56.0 u108109551 close "/lib/animate/animate.min.css" bytes read 16964 written 0
+Jan 24 16:05:46 10.71.56.0 u108109551 [10.71.56.0|get|0|16964|0|0|0|2f6c69622f616e696d6174652f616e696d6174652e6d696e2e637373|]
+Jan 24 16:05:46 10.71.56.0 u108109551 open "/lib/easing/easing.js" flags READ mode 0666
+Jan 24 16:05:46 10.71.56.0 u108109551 open "/lib/isotope/isotope.pkgd.min.js" flags READ mode 0666
+Jan 24 16:05:47 10.71.56.0 u108109551 close "/lib/easing/easing.min.js" bytes read 2303 written 0
+Jan 24 16:05:47 10.71.56.0 u108109551 [10.71.56.0|get|1|2303|0|0|0|2f6c69622f656173696e672f656173696e672e6d696e2e6a73|]
+Jan 24 16:05:47 10.71.56.0 u108109551 open "/lib/isotope/isotope.pkgd.js" flags READ mode 0666
+Jan 24 16:05:47 10.71.56.0 u108109551 close "/lib/easing/easing.js" bytes read 4092 written 0
+Jan 24 16:05:47 10.71.56.0 u108109551 [10.71.56.0|get|1|4092|0|0|0|2f6c69622f656173696e672f656173696e672e6a73|]
+Jan 24 16:05:47 10.71.56.0 u108109551 open "/lib/lightbox/links.php" flags READ mode 0666
+Jan 24 16:05:47 10.71.56.0 u108109551 close "/lib/isotope/isotope.pkgd.min.js" bytes read 35503 written 0
+Jan 24 16:05:47 10.71.56.0 u108109551 [10.71.56.0|get|1|35503|0|0|0|2f6c69622f69736f746f70652f69736f746f70652e706b67642e6d696e2e6a73|]
+Jan 24 16:05:47 10.71.56.0 u108109551 open "/lib/owlcarousel/LICENSE" flags READ mode 0666
+Jan 24 16:05:47 10.71.56.0 u108109551 close "/lib/lightbox/links.php" bytes read 134 written 0
+Jan 24 16:05:47 10.71.56.0 u108109551 [10.71.56.0|get|0|134|0|0|0|2f6c69622f6c69676874626f782f6c696e6b732e706870|]
+Jan 24 16:05:47 10.71.56.0 u108109551 close "/lib/owlcarousel/LICENSE" bytes read 1090 written 0
+Jan 24 16:05:47 10.71.56.0 u108109551 [10.71.56.0|get|0|1090|0|0|0|2f6c69622f6f776c6361726f7573656c2f4c4943454e5345|]
+Jan 24 16:05:47 10.71.56.0 u108109551 open "/lib/owlcarousel/owl.carousel.min.js" flags READ mode 0666
+Jan 24 16:05:47 10.71.56.0 u108109551 open "/lib/owlcarousel/owl.carousel.js" flags READ mode 0666
+Jan 24 16:05:47 10.71.56.0 u108109551 close "/lib/isotope/isotope.pkgd.js" bytes read 91330 written 0
+Jan 24 16:05:47 10.71.56.0 u108109551 [10.71.56.0|get|0|91330|0|0|0|2f6c69622f69736f746f70652f69736f746f70652e706b67642e6a73|]
+Jan 24 16:05:47 10.71.56.0 u108109551 open "/lib/typed/typed.js" flags READ mode 0666
+Jan 24 16:05:47 10.71.56.0 u108109551 close "/lib/owlcarousel/owl.carousel.min.js" bytes read 42766 written 0
+Jan 24 16:05:47 10.71.56.0 u108109551 [10.71.56.0|get|0|42766|0|0|0|2f6c69622f6f776c6361726f7573656c2f6f776c2e6361726f7573656c2e6d696e2e6a73|]
+Jan 24 16:05:47 10.71.56.0 u108109551 open "/lib/typed/typed.min.js" flags READ mode 0666
+Jan 24 16:05:47 10.71.56.0 u108109551 close "/lib/typed/typed.js" bytes read 32825 written 0
+Jan 24 16:05:47 10.71.56.0 u108109551 [10.71.56.0|get|0|32825|0|0|0|2f6c69622f74797065642f74797065642e6a73|]
+Jan 24 16:05:47 10.71.56.0 u108109551 close "/lib/owlcarousel/owl.carousel.js" bytes read 85368 written 0
+Jan 24 16:05:47 10.71.56.0 u108109551 [10.71.56.0|get|0|85368|0|0|0|2f6c69622f6f776c6361726f7573656c2f6f776c2e6361726f7573656c2e6a73|]
+Jan 24 16:05:47 10.71.56.0 u108109551 open "/lib/wow/wow.js" flags READ mode 0666
+Jan 24 16:05:47 10.71.56.0 u108109551 open "/lib/wow/wow.min.js" flags READ mode 0666
+Jan 24 16:05:47 10.71.56.0 u108109551 close "/lib/typed/typed.min.js" bytes read 11749 written 0
+Jan 24 16:05:47 10.71.56.0 u108109551 [10.71.56.0|get|0|11749|0|0|0|2f6c69622f74797065642f74797065642e6d696e2e6a73|]
+Jan 24 16:05:47 10.71.56.0 u108109551 open "/lib/waypoints/waypoints.min.js" flags READ mode 0666
+Jan 24 16:05:47 10.71.56.0 u108109551 close "/lib/wow/wow.js" bytes read 17059 written 0
+Jan 24 16:05:47 10.71.56.0 u108109551 [10.71.56.0|get|0|17059|0|0|0|2f6c69622f776f772f776f772e6a73|]
+Jan 24 16:05:47 10.71.56.0 u108109551 close "/lib/wow/wow.min.js" bytes read 8159 written 0
+Jan 24 16:05:47 10.71.56.0 u108109551 [10.71.56.0|get|0|8159|0|0|0|2f6c69622f776f772f776f772e6d696e2e6a73|]
+Jan 24 16:05:47 10.71.56.0 u108109551 open "/lib/waypoints/links.php" flags READ mode 0666
+Jan 24 16:05:47 10.71.56.0 u108109551 open "/lib/lightbox/images/close.png" flags READ mode 0666
+Jan 24 16:05:48 10.71.56.0 u108109551 close "/lib/waypoints/waypoints.min.js" bytes read 9028 written 0
+Jan 24 16:05:48 10.71.56.0 u108109551 [10.71.56.0|get|1|9028|0|0|0|2f6c69622f776179706f696e74732f776179706f696e74732e6d696e2e6a73|]
+Jan 24 16:05:48 10.71.56.0 u108109551 open "/lib/lightbox/images/loading.gif" flags READ mode 0666
+Jan 24 16:05:48 10.71.56.0 u108109551 close "/lib/waypoints/links.php" bytes read 82 written 0
+Jan 24 16:05:48 10.71.56.0 u108109551 [10.71.56.0|get|1|82|0|0|0|2f6c69622f776179706f696e74732f6c696e6b732e706870|]
+Jan 24 16:05:48 10.71.56.0 u108109551 close "/lib/lightbox/images/close.png" bytes read 280 written 0
+Jan 24 16:05:48 10.71.56.0 u108109551 [10.71.56.0|get|1|280|0|0|0|2f6c69622f6c69676874626f782f696d616765732f636c6f73652e706e67|]
+Jan 24 16:05:48 10.71.56.0 u108109551 open "/lib/lightbox/images/prev.png" flags READ mode 0666
+Jan 24 16:05:48 10.71.56.0 u108109551 open "/lib/lightbox/images/next.png" flags READ mode 0666
+Jan 24 16:05:48 10.71.56.0 u108109551 close "/lib/lightbox/images/loading.gif" bytes read 8476 written 0
+Jan 24 16:05:48 10.71.56.0 u108109551 [10.71.56.0|get|0|8476|0|0|0|2f6c69622f6c69676874626f782f696d616765732f6c6f6164696e672e676966|]
+Jan 24 16:05:48 10.71.56.0 u108109551 open "/lib/lightbox/css/lightbox.css" flags READ mode 0666
+Jan 24 16:05:48 10.71.56.0 u108109551 close "/lib/lightbox/images/prev.png" bytes read 1360 written 0
+Jan 24 16:05:48 10.71.56.0 u108109551 [10.71.56.0|get|0|1360|0|0|0|2f6c69622f6c69676874626f782f696d616765732f707265762e706e67|]
+Jan 24 16:05:48 10.71.56.0 u108109551 close "/lib/lightbox/images/next.png" bytes read 1350 written 0
+Jan 24 16:05:48 10.71.56.0 u108109551 [10.71.56.0|get|0|1350|0|0|0|2f6c69622f6c69676874626f782f696d616765732f6e6578742e706e67|]
+Jan 24 16:05:48 10.71.56.0 u108109551 open "/lib/lightbox/css/lightbox.min.css" flags READ mode 0666
+Jan 24 16:05:48 10.71.56.0 u108109551 open "/lib/lightbox/js/lightbox.js" flags READ mode 0666
+Jan 24 16:05:48 10.71.56.0 u108109551 close "/lib/lightbox/css/lightbox.css" bytes read 3714 written 0
+Jan 24 16:05:48 10.71.56.0 u108109551 [10.71.56.0|get|0|3714|0|0|0|2f6c69622f6c69676874626f782f6373732f6c69676874626f782e637373|]
+Jan 24 16:05:48 10.71.56.0 u108109551 close "/lib/lightbox/css/lightbox.min.css" bytes read 2608 written 0
+Jan 24 16:05:48 10.71.56.0 u108109551 [10.71.56.0|get|0|2608|0|0|0|2f6c69622f6c69676874626f782f6373732f6c69676874626f782e6d696e2e637373|]
+Jan 24 16:05:48 10.71.56.0 u108109551 open "/lib/lightbox/js/lightbox.min.js" flags READ mode 0666
+Jan 24 16:05:48 10.71.56.0 u108109551 open "/lib/owlcarousel/assets/owl.carousel.css" flags READ mode 0666
+Jan 24 16:05:48 10.71.56.0 u108109551 close "/lib/lightbox/js/lightbox.js" bytes read 18410 written 0
+Jan 24 16:05:48 10.71.56.0 u108109551 [10.71.56.0|get|0|18410|0|0|0|2f6c69622f6c69676874626f782f6a732f6c69676874626f782e6a73|]
+Jan 24 16:05:48 10.71.56.0 u108109551 open "/lib/owlcarousel/assets/ajax-loader.gif" flags READ mode 0666
+Jan 24 16:05:48 10.71.56.0 u108109551 close "/lib/lightbox/js/lightbox.min.js" bytes read 9418 written 0
+Jan 24 16:05:48 10.71.56.0 u108109551 [10.71.56.0|get|0|9418|0|0|0|2f6c69622f6c69676874626f782f6a732f6c69676874626f782e6d696e2e6a73|]
+Jan 24 16:05:48 10.71.56.0 u108109551 close "/lib/owlcarousel/assets/owl.carousel.css" bytes read 4028 written 0
+Jan 24 16:05:48 10.71.56.0 u108109551 [10.71.56.0|get|0|4028|0|0|0|2f6c69622f6f776c6361726f7573656c2f6173736574732f6f776c2e6361726f7573656c2e637373|]
+Jan 24 16:05:48 10.71.56.0 u108109551 open "/lib/owlcarousel/assets/owl.carousel.min.css" flags READ mode 0666
+Jan 24 16:05:48 10.71.56.0 u108109551 open "/lib/owlcarousel/assets/owl.theme.default.css" flags READ mode 0666
+Jan 24 16:05:48 10.71.56.0 u108109551 close "/lib/owlcarousel/assets/ajax-loader.gif" bytes read 3208 written 0
+Jan 24 16:05:48 10.71.56.0 u108109551 [10.71.56.0|get|0|3208|0|0|0|2f6c69622f6f776c6361726f7573656c2f6173736574732f616a61782d6c6f616465722e676966|]
+Jan 24 16:05:48 10.71.56.0 u108109551 open "/lib/owlcarousel/assets/owl.theme.default.min.css" flags READ mode 0666
+Jan 24 16:05:48 10.71.56.0 u108109551 close "/lib/owlcarousel/assets/owl.carousel.min.css" bytes read 2936 written 0
+Jan 24 16:05:48 10.71.56.0 u108109551 [10.71.56.0|get|0|2936|0|0|0|2f6c69622f6f776c6361726f7573656c2f6173736574732f6f776c2e6361726f7573656c2e6d696e2e637373|]
+Jan 24 16:05:48 10.71.56.0 u108109551 open "/lib/owlcarousel/assets/owl.theme.green.css" flags READ mode 0666
+Jan 24 16:05:48 10.71.56.0 u108109551 close "/lib/owlcarousel/assets/owl.theme.default.css" bytes read 1303 written 0
+Jan 24 16:05:48 10.71.56.0 u108109551 [10.71.56.0|get|0|1303|0|0|0|2f6c69622f6f776c6361726f7573656c2f6173736574732f6f776c2e7468656d652e64656661756c742e637373|]
+Jan 24 16:05:48 10.71.56.0 u108109551 open "/lib/owlcarousel/assets/owl.theme.green.min.css" flags READ mode 0666
+Jan 24 16:05:48 10.71.56.0 u108109551 close "/lib/owlcarousel/assets/owl.theme.default.min.css" bytes read 936 written 0
+Jan 24 16:05:48 10.71.56.0 u108109551 [10.71.56.0|get|0|936|0|0|0|2f6c69622f6f776c6361726f7573656c2f6173736574732f6f776c2e7468656d652e64656661756c742e6d696e2e637373|]
+Jan 24 16:05:48 10.71.56.0 u108109551 open "/lib/owlcarousel/assets/owl.video.play.png" flags READ mode 0666
+Jan 24 16:05:48 10.71.56.0 u108109551 close "/lib/owlcarousel/assets/owl.theme.green.css" bytes read 1301 written 0
+Jan 24 16:05:48 10.71.56.0 u108109551 [10.71.56.0|get|0|1301|0|0|0|2f6c69622f6f776c6361726f7573656c2f6173736574732f6f776c2e7468656d652e677265656e2e637373|]
+Jan 24 16:05:48 10.71.56.0 u108109551 close "/lib/owlcarousel/assets/owl.theme.green.min.css" bytes read 936 written 0
+Jan 24 16:05:48 10.71.56.0 u108109551 [10.71.56.0|get|0|936|0|0|0|2f6c69622f6f776c6361726f7573656c2f6173736574732f6f776c2e7468656d652e677265656e2e6d696e2e637373|]
+Jan 24 16:05:48 10.71.56.0 u108109551 close "/lib/owlcarousel/assets/owl.video.play.png" bytes read 4976 written 0
+Jan 24 16:05:48 10.71.56.0 u108109551 [10.71.56.0|get|0|4976|0|0|0|2f6c69622f6f776c6361726f7573656c2f6173736574732f6f776c2e766964656f2e706c61792e706e67|]
+Jan 24 16:05:56 10.71.56.0 u108109551 close "/img/hero.png" bytes read 12182340 written 0
+Jan 24 16:05:56 10.71.56.0 u108109551 [10.71.56.0|get|12|12182340|0|0|0|2f696d672f6865726f2e706e67|]
+Jan 24 16:06:21 10.71.56.0 u108109551 Received disconnect from 10.71.56.0 port 61542:11: 
+Jan 24 16:06:21 10.71.56.0 u108109551 session closed for local user u108109551 from [10.71.56.0]
+Jan 24 16:07:00 10.71.56.0 u108109551 Connection from 10.71.56.0 port 62356 on 82.165.88.218 port 22
+Jan 24 16:07:00 10.71.56.0 u108109551 Accepted password for u108109551 from 10.71.56.0 port 62356 ssh2
+Jan 24 16:07:00 10.71.56.0 u108109551 Starting session: subsystem 'sftp' for u108109551 from 10.71.56.0 port 62356 id 0
+Jan 24 16:07:00 10.71.56.0 u108109551 session opened for local user u108109551 from [10.71.56.0]
+Jan 24 16:07:07 10.71.56.0 u108109551 Connection from 10.71.56.0 port 62372 on 82.165.88.218 port 22
+Jan 24 16:07:08 10.71.56.0 u108109551 Accepted password for u108109551 from 10.71.56.0 port 62372 ssh2
+Jan 24 16:07:08 10.71.56.0 u108109551 Starting session: subsystem 'sftp' for u108109551 from 10.71.56.0 port 62372 id 0
+Jan 24 16:07:08 10.71.56.0 u108109551 session opened for local user u108109551 from [10.71.56.0]
+Jan 24 16:07:08 10.71.56.0 u108109551 open "/mail/contact.php" flags READ mode 0666
+Jan 24 16:07:08 10.71.56.0 u108109551 close "/mail/contact.php" bytes read 789 written 0
+Jan 24 16:07:08 10.71.56.0 u108109551 [10.71.56.0|get|0|789|0|0|0|2f6d61696c2f636f6e746163742e706870|]
+Jan 24 16:08:08 10.71.56.0 u108109551 Connection closed by 10.71.56.0 port 62372
+Jan 24 16:08:08 10.71.56.0 u108109551 session closed for local user u108109551 from [10.71.56.0]
+Jan 24 16:08:11 10.71.56.0 u108109551 Connection from 10.71.56.0 port 63060 on 82.165.88.218 port 22
+Jan 24 16:08:11 10.71.56.0 u108109551 Accepted password for u108109551 from 10.71.56.0 port 63060 ssh2
+Jan 24 16:08:11 10.71.56.0 u108109551 Connection from 10.71.56.0 port 63062 on 82.165.88.218 port 22
+Jan 24 16:08:11 10.71.56.0 u108109551 Accepted password for u108109551 from 10.71.56.0 port 63062 ssh2
+Jan 24 16:08:11 10.71.56.0 u108109551 Starting session: subsystem 'sftp' for u108109551 from 10.71.56.0 port 63060 id 0
+Jan 24 16:08:11 10.71.56.0 u108109551 session opened for local user u108109551 from [10.71.56.0]
+Jan 24 16:08:11 10.71.56.0 u108109551 Starting session: subsystem 'sftp' for u108109551 from 10.71.56.0 port 63062 id 0
+Jan 24 16:08:11 10.71.56.0 u108109551 session opened for local user u108109551 from [10.71.56.0]
+Jan 24 16:08:11 10.71.56.0 u108109551 sent status No such file
+Jan 24 16:08:11 10.71.56.0 u108109551 open "/READ-ME.txt" flags READ mode 0666
+Jan 24 16:08:11 10.71.56.0 u108109551 open "/LICENSE.txt" flags READ mode 0666
+Jan 24 16:08:12 10.71.56.0 u108109551 close "/READ-ME.txt" bytes read 547 written 0
+Jan 24 16:08:12 10.71.56.0 u108109551 [10.71.56.0|get|1|547|0|0|0|2f524541442d4d452e747874|]
+Jan 24 16:08:12 10.71.56.0 u108109551 close "/LICENSE.txt" bytes read 1309 written 0
+Jan 24 16:08:12 10.71.56.0 u108109551 [10.71.56.0|get|1|1309|0|0|0|2f4c4943454e53452e747874|]
+Jan 24 16:08:12 10.71.56.0 u108109551 open "/index.html" flags READ mode 0666
+Jan 24 16:08:12 10.71.56.0 u108109551 open "/logs/access.log.03.2.gz" flags READ mode 0666
+Jan 24 16:08:12 10.71.56.0 u108109551 close "/index.html" bytes read 48950 written 0
+Jan 24 16:08:12 10.71.56.0 u108109551 [10.71.56.0|get|0|48950|0|0|0|2f696e6465782e68746d6c|]
+Jan 24 16:08:12 10.71.56.0 u108109551 close "/logs/access.log.03.2.gz" bytes read 1958 written 0
+Jan 24 16:08:12 10.71.56.0 u108109551 [10.71.56.0|get|0|1958|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e322e677a|]
+Jan 24 16:08:12 10.71.56.0 u108109551 open "/logs/sftp.log" flags READ mode 0666
+Jan 24 16:08:12 10.71.56.0 u108109551 open "/logs/access.log.01.gz" flags READ mode 0666
+Jan 24 16:08:12 10.71.56.0 u108109551 close "/logs/access.log.01.gz" bytes read 10737 written 0
+Jan 24 16:08:12 10.71.56.0 u108109551 [10.71.56.0|get|0|10737|0|0|0|2f6c6f67732f6163636573732e6c6f672e30312e677a|]
+Jan 24 16:08:12 10.71.56.0 u108109551 close "/logs/sftp.log" bytes read 35657 written 0
+Jan 24 16:08:12 10.71.56.0 u108109551 [10.71.56.0|get|0|35657|0|0|0|2f6c6f67732f736674702e6c6f67|]
+Jan 24 16:08:12 10.71.56.0 u108109551 open "/logs/access.log.03.7.gz" flags READ mode 0666
+Jan 24 16:08:12 10.71.56.0 u108109551 open "/logs/access.log.50.gz" flags READ mode 0666
+Jan 24 16:08:12 10.71.56.0 u108109551 close "/logs/access.log.03.7.gz" bytes read 2075 written 0
+Jan 24 16:08:12 10.71.56.0 u108109551 [10.71.56.0|get|0|2075|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e372e677a|]
+Jan 24 16:08:12 10.71.56.0 u108109551 close "/logs/access.log.50.gz" bytes read 9920 written 0
+Jan 24 16:08:12 10.71.56.0 u108109551 [10.71.56.0|get|0|9920|0|0|0|2f6c6f67732f6163636573732e6c6f672e35302e677a|]
+Jan 24 16:08:13 10.71.56.0 u108109551 open "/logs/access.log.52.gz" flags READ mode 0666
+Jan 24 16:08:13 10.71.56.0 u108109551 open "/logs/access.log.48.gz" flags READ mode 0666
+Jan 24 16:08:13 10.71.56.0 u108109551 close "/logs/access.log.52.gz" bytes read 14191 written 0
+Jan 24 16:08:13 10.71.56.0 u108109551 [10.71.56.0|get|0|14191|0|0|0|2f6c6f67732f6163636573732e6c6f672e35322e677a|]
+Jan 24 16:08:13 10.71.56.0 u108109551 close "/logs/access.log.48.gz" bytes read 21069 written 0
+Jan 24 16:08:13 10.71.56.0 u108109551 [10.71.56.0|get|0|21069|0|0|0|2f6c6f67732f6163636573732e6c6f672e34382e677a|]
+Jan 24 16:08:13 10.71.56.0 u108109551 open "/logs/sftp.log.48.gz" flags READ mode 0666
+Jan 24 16:08:13 10.71.56.0 u108109551 open "/logs/access.log.03.6.gz" flags READ mode 0666
+Jan 24 16:08:13 10.71.56.0 u108109551 close "/logs/sftp.log.48.gz" bytes read 6852 written 0
+Jan 24 16:08:13 10.71.56.0 u108109551 [10.71.56.0|get|0|6852|0|0|0|2f6c6f67732f736674702e6c6f672e34382e677a|]
+Jan 24 16:08:13 10.71.56.0 u108109551 close "/logs/access.log.03.6.gz" bytes read 1590 written 0
+Jan 24 16:08:13 10.71.56.0 u108109551 [10.71.56.0|get|0|1590|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e362e677a|]
+Jan 24 16:08:13 10.71.56.0 u108109551 open "/logs/access.log.03.5.gz" flags READ mode 0666
+Jan 24 16:08:13 10.71.56.0 u108109551 open "/logs/access.log.04.1.gz" flags READ mode 0666
+Jan 24 16:08:13 10.71.56.0 u108109551 close "/logs/access.log.03.5.gz" bytes read 2480 written 0
+Jan 24 16:08:13 10.71.56.0 u108109551 [10.71.56.0|get|0|2480|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e352e677a|]
+Jan 24 16:08:13 10.71.56.0 u108109551 close "/logs/access.log.04.1.gz" bytes read 2094 written 0
+Jan 24 16:08:13 10.71.56.0 u108109551 [10.71.56.0|get|0|2094|0|0|0|2f6c6f67732f6163636573732e6c6f672e30342e312e677a|]
+Jan 24 16:08:13 10.71.56.0 u108109551 open "/logs/access.log.04.2" flags READ mode 0666
+Jan 24 16:08:13 10.71.56.0 u108109551 open "/logs/access.log.03.4.gz" flags READ mode 0666
+Jan 24 16:08:13 10.71.56.0 u108109551 close "/logs/access.log.03.4.gz" bytes read 2199 written 0
+Jan 24 16:08:13 10.71.56.0 u108109551 [10.71.56.0|get|0|2199|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e342e677a|]
+Jan 24 16:08:13 10.71.56.0 u108109551 close "/logs/access.log.04.2" bytes read 55847 written 0
+Jan 24 16:08:13 10.71.56.0 u108109551 [10.71.56.0|get|0|55847|0|0|0|2f6c6f67732f6163636573732e6c6f672e30342e32|]
+Jan 24 16:08:13 10.71.56.0 u108109551 open "/logs/access.log.03.1.gz" flags READ mode 0666
+Jan 24 16:08:14 10.71.56.0 u108109551 open "/logs/access.log.49.gz" flags READ mode 0666
+Jan 24 16:08:14 10.71.56.0 u108109551 close "/logs/access.log.03.1.gz" bytes read 1569 written 0
+Jan 24 16:08:14 10.71.56.0 u108109551 [10.71.56.0|get|1|1569|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e312e677a|]
+Jan 24 16:08:14 10.71.56.0 u108109551 close "/logs/access.log.49.gz" bytes read 11335 written 0
+Jan 24 16:08:14 10.71.56.0 u108109551 [10.71.56.0|get|0|11335|0|0|0|2f6c6f67732f6163636573732e6c6f672e34392e677a|]
+Jan 24 16:08:14 10.71.56.0 u108109551 open "/logs/access.log.02.gz" flags READ mode 0666
+Jan 24 16:08:14 10.71.56.0 u108109551 open "/logs/access.log.03.3.gz" flags READ mode 0666
+Jan 24 16:08:14 10.71.56.0 u108109551 close "/logs/access.log.02.gz" bytes read 11846 written 0
+Jan 24 16:08:14 10.71.56.0 u108109551 [10.71.56.0|get|0|11846|0|0|0|2f6c6f67732f6163636573732e6c6f672e30322e677a|]
+Jan 24 16:08:14 10.71.56.0 u108109551 close "/logs/access.log.03.3.gz" bytes read 1625 written 0
+Jan 24 16:08:14 10.71.56.0 u108109551 [10.71.56.0|get|0|1625|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e332e677a|]
+Jan 24 16:08:14 10.71.56.0 u108109551 open "/logs/access.log.51.gz" flags READ mode 0666
+Jan 24 16:08:14 10.71.56.0 u108109551 open "/logs/last_traffic" flags READ mode 0666
+Jan 24 16:08:14 10.71.56.0 u108109551 close "/logs/last_traffic" bytes read 0 written 0
+Jan 24 16:08:14 10.71.56.0 u108109551 [10.71.56.0|get|0|0|0|0|0|2f6c6f67732f6c6173745f74726166666963|]
+Jan 24 16:08:14 10.71.56.0 u108109551 close "/logs/access.log.51.gz" bytes read 10418 written 0
+Jan 24 16:08:14 10.71.56.0 u108109551 [10.71.56.0|get|0|10418|0|0|0|2f6c6f67732f6163636573732e6c6f672e35312e677a|]
+Jan 24 16:08:14 10.71.56.0 u108109551 open "/logs/traffic.db" flags READ mode 0666
+Jan 24 16:08:14 10.71.56.0 u108109551 open "/logs/info.py" flags READ mode 0666
+Jan 24 16:08:14 10.71.56.0 u108109551 close "/logs/traffic.db" bytes read 28672 written 0
+Jan 24 16:08:14 10.71.56.0 u108109551 [10.71.56.0|get|0|28672|0|0|0|2f6c6f67732f747261666669632e6462|]
+Jan 24 16:08:14 10.71.56.0 u108109551 close "/logs/info.py" bytes read 6384 written 0
+Jan 24 16:08:14 10.71.56.0 u108109551 [10.71.56.0|get|0|6384|0|0|0|2f6c6f67732f696e666f2e7079|]
+Jan 24 16:08:14 10.71.56.0 u108109551 open "/logs/info.php5" flags READ mode 0666
+Jan 24 16:08:14 10.71.56.0 u108109551 open "/logs/info.pl" flags READ mode 0666
+Jan 24 16:08:14 10.71.56.0 u108109551 close "/logs/info.php5" bytes read 21 written 0
+Jan 24 16:08:14 10.71.56.0 u108109551 [10.71.56.0|get|0|21|0|0|0|2f6c6f67732f696e666f2e70687035|]
+Jan 24 16:08:15 10.71.56.0 u108109551 close "/logs/info.pl" bytes read 4176 written 0
+Jan 24 16:08:15 10.71.56.0 u108109551 [10.71.56.0|get|1|4176|0|0|0|2f6c6f67732f696e666f2e706c|]
+Jan 24 16:08:15 10.71.56.0 u108109551 open "/logs/.htaccess" flags READ mode 0666
+Jan 24 16:08:15 10.71.56.0 u108109551 close "/logs/.htaccess" bytes read 268 written 0
+Jan 24 16:08:15 10.71.56.0 u108109551 [10.71.56.0|get|0|268|0|0|0|2f6c6f67732f2e6874616363657373|]
+Jan 24 16:08:15 10.71.56.0 u108109551 open "/logs/traffic.html/01.html" flags READ mode 0666
+Jan 24 16:08:15 10.71.56.0 u108109551 close "/logs/traffic.html/01.html" bytes read 7947 written 0
+Jan 24 16:08:15 10.71.56.0 u108109551 [10.71.56.0|get|0|7947|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30312e68746d6c|]
+Jan 24 16:08:15 10.71.56.0 u108109551 open "/logs/traffic.html/12.html" flags READ mode 0666
+Jan 24 16:08:15 10.71.56.0 u108109551 open "/logs/traffic.html/11.html" flags READ mode 0666
+Jan 24 16:08:15 10.71.56.0 u108109551 close "/logs/traffic.html/12.html" bytes read 9965 written 0
+Jan 24 16:08:15 10.71.56.0 u108109551 [10.71.56.0|get|0|9965|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31322e68746d6c|]
+Jan 24 16:08:15 10.71.56.0 u108109551 close "/logs/traffic.html/11.html" bytes read 9559 written 0
+Jan 24 16:08:15 10.71.56.0 u108109551 [10.71.56.0|get|0|9559|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31312e68746d6c|]
+Jan 24 16:08:15 10.71.56.0 u108109551 open "/logs/traffic.html/10.html" flags READ mode 0666
+Jan 24 16:08:15 10.71.56.0 u108109551 open "/logs/traffic.html/09.html" flags READ mode 0666
+Jan 24 16:08:15 10.71.56.0 u108109551 close "/logs/traffic.html/10.html" bytes read 9841 written 0
+Jan 24 16:08:15 10.71.56.0 u108109551 [10.71.56.0|get|0|9841|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31302e68746d6c|]
+Jan 24 16:08:15 10.71.56.0 u108109551 close "/logs/traffic.html/09.html" bytes read 9543 written 0
+Jan 24 16:08:15 10.71.56.0 u108109551 [10.71.56.0|get|0|9543|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30392e68746d6c|]
+Jan 24 16:08:15 10.71.56.0 u108109551 open "/logs/traffic.html/08.html" flags READ mode 0666
+Jan 24 16:08:15 10.71.56.0 u108109551 open "/logs/traffic.html/07.html" flags READ mode 0666
+Jan 24 16:08:16 10.71.56.0 u108109551 close "/logs/traffic.html/08.html" bytes read 9833 written 0
+Jan 24 16:08:16 10.71.56.0 u108109551 [10.71.56.0|get|1|9833|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30382e68746d6c|]
+Jan 24 16:08:16 10.71.56.0 u108109551 close "/logs/traffic.html/07.html" bytes read 9841 written 0
+Jan 24 16:08:16 10.71.56.0 u108109551 [10.71.56.0|get|1|9841|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30372e68746d6c|]
+Jan 24 16:08:16 10.71.56.0 u108109551 open "/logs/traffic.html/06.html" flags READ mode 0666
+Jan 24 16:08:16 10.71.56.0 u108109551 open "/logs/traffic.html/05.html" flags READ mode 0666
+Jan 24 16:08:16 10.71.56.0 u108109551 close "/logs/traffic.html/06.html" bytes read 9599 written 0
+Jan 24 16:08:16 10.71.56.0 u108109551 [10.71.56.0|get|0|9599|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30362e68746d6c|]
+Jan 24 16:08:16 10.71.56.0 u108109551 close "/logs/traffic.html/05.html" bytes read 9937 written 0
+Jan 24 16:08:16 10.71.56.0 u108109551 [10.71.56.0|get|0|9937|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30352e68746d6c|]
+Jan 24 16:08:16 10.71.56.0 u108109551 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Jan 24 16:08:16 10.71.56.0 u108109551 sent status Permission denied
+Jan 24 16:08:16 10.71.56.0 u108109551 open "/logs/traffic.html/04.html" flags READ mode 0666
+Jan 24 16:08:16 10.71.56.0 u108109551 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Jan 24 16:08:16 10.71.56.0 u108109551 sent status Permission denied
+Jan 24 16:08:16 10.71.56.0 u108109551 close "/logs/traffic.html/04.html" bytes read 5061 written 0
+Jan 24 16:08:16 10.71.56.0 u108109551 [10.71.56.0|get|0|5061|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30342e68746d6c|]
+Jan 24 16:08:16 10.71.56.0 u108109551 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Jan 24 16:08:16 10.71.56.0 u108109551 sent status Permission denied
+Jan 24 16:08:16 10.71.56.0 u108109551 open "/logs/traffic.html/index.html" flags READ mode 0666
+Jan 24 16:08:16 10.71.56.0 u108109551 open "/logs/traffic.html/.htaccess" flags READ mode 0666
+Jan 24 16:08:16 10.71.56.0 u108109551 close "/logs/traffic.html/index.html" bytes read 6143 written 0
+Jan 24 16:08:16 10.71.56.0 u108109551 [10.71.56.0|get|0|6143|0|0|0|2f6c6f67732f747261666669632e68746d6c2f696e6465782e68746d6c|]
+Jan 24 16:08:16 10.71.56.0 u108109551 close "/logs/traffic.html/.htaccess" bytes read 23 written 0
+Jan 24 16:08:16 10.71.56.0 u108109551 [10.71.56.0|get|0|23|0|0|0|2f6c6f67732f747261666669632e68746d6c2f2e6874616363657373|]
+Jan 24 16:08:16 10.71.56.0 u108109551 open "/logs/access.log.04.2" flags READ mode 0666
+Jan 24 16:08:17 10.71.56.0 u108109551 open "/construccion/Password-Template.css" flags READ mode 0666
+Jan 24 16:08:17 10.71.56.0 u108109551 close "/logs/access.log.04.2" bytes read 55847 written 0
+Jan 24 16:08:17 10.71.56.0 u108109551 [10.71.56.0|get|1|55847|0|0|0|2f6c6f67732f6163636573732e6c6f672e30342e32|]
+Jan 24 16:08:17 10.71.56.0 u108109551 close "/construccion/Password-Template.css" bytes read 683 written 0
+Jan 24 16:08:17 10.71.56.0 u108109551 [10.71.56.0|get|0|683|0|0|0|2f636f6e737472756363696f6e2f50617373776f72642d54656d706c6174652e637373|]
+Jan 24 16:08:17 10.71.56.0 u108109551 open "/construccion/nicepage.js" flags READ mode 0666
+Jan 24 16:08:17 10.71.56.0 u108109551 open "/construccion/Page-8.css" flags READ mode 0666
+Jan 24 16:08:17 10.71.56.0 u108109551 close "/construccion/Page-8.css" bytes read 954 written 0
+Jan 24 16:08:17 10.71.56.0 u108109551 [10.71.56.0|get|0|954|0|0|0|2f636f6e737472756363696f6e2f506167652d382e637373|]
+Jan 24 16:08:17 10.71.56.0 u108109551 close "/construccion/nicepage.js" bytes read 241000 written 0
+Jan 24 16:08:17 10.71.56.0 u108109551 [10.71.56.0|get|0|241000|0|0|0|2f636f6e737472756363696f6e2f6e696365706167652e6a73|]
+Jan 24 16:08:17 10.71.56.0 u108109551 open "/construccion/nicepage.css" flags READ mode 0666
+Jan 24 16:08:17 10.71.56.0 u108109551 open "/construccion/jquery-1.9.1.min.js" flags READ mode 0666
+Jan 24 16:08:17 10.71.56.0 u108109551 close "/construccion/jquery-1.9.1.min.js" bytes read 92629 written 0
+Jan 24 16:08:17 10.71.56.0 u108109551 [10.71.56.0|get|0|92629|0|0|0|2f636f6e737472756363696f6e2f6a71756572792d312e392e312e6d696e2e6a73|]
+Jan 24 16:08:18 10.71.56.0 u108109551 open "/construccion/index.html" flags READ mode 0666
+Jan 24 16:08:18 10.71.56.0 u108109551 close "/construccion/nicepage.css" bytes read 1238282 written 0
+Jan 24 16:08:18 10.71.56.0 u108109551 [10.71.56.0|get|1|1238282|0|0|0|2f636f6e737472756363696f6e2f6e696365706167652e637373|]
+Jan 24 16:08:18 10.71.56.0 u108109551 close "/construccion/index.html" bytes read 3174 written 0
+Jan 24 16:08:18 10.71.56.0 u108109551 [10.71.56.0|get|0|3174|0|0|0|2f636f6e737472756363696f6e2f696e6465782e68746d6c|]
+Jan 24 16:08:18 10.71.56.0 u108109551 open "/construccion/images/60028-Converted.png" flags READ mode 0666
+Jan 24 16:08:18 10.71.56.0 u108109551 open "/img/testimonial-3.jpg" flags READ mode 0666
+Jan 24 16:08:18 10.71.56.0 u108109551 close "/construccion/images/60028-Converted.png" bytes read 24223 written 0
+Jan 24 16:08:18 10.71.56.0 u108109551 [10.71.56.0|get|0|24223|0|0|0|2f636f6e737472756363696f6e2f696d616765732f36303032382d436f6e7665727465642e706e67|]
+Jan 24 16:08:18 10.71.56.0 u108109551 close "/img/testimonial-3.jpg" bytes read 4945 written 0
+Jan 24 16:08:18 10.71.56.0 u108109551 [10.71.56.0|get|0|4945|0|0|0|2f696d672f74657374696d6f6e69616c2d332e6a7067|]
+Jan 24 16:08:18 10.71.56.0 u108109551 open "/img/testimonial-1.jpg" flags READ mode 0666
+Jan 24 16:08:18 10.71.56.0 u108109551 open "/img/testimonial-2.jpg" flags READ mode 0666
+Jan 24 16:08:18 10.71.56.0 u108109551 close "/img/testimonial-1.jpg" bytes read 5183 written 0
+Jan 24 16:08:18 10.71.56.0 u108109551 [10.71.56.0|get|0|5183|0|0|0|2f696d672f74657374696d6f6e69616c2d312e6a7067|]
+Jan 24 16:08:18 10.71.56.0 u108109551 close "/img/testimonial-2.jpg" bytes read 4421 written 0
+Jan 24 16:08:18 10.71.56.0 u108109551 [10.71.56.0|get|0|4421|0|0|0|2f696d672f74657374696d6f6e69616c2d322e6a7067|]
+Jan 24 16:08:18 10.71.56.0 u108109551 open "/img/team-4.jpg" flags READ mode 0666
+Jan 24 16:08:18 10.71.56.0 u108109551 open "/img/team-3.jpg" flags READ mode 0666
+Jan 24 16:08:19 10.71.56.0 u108109551 close "/img/team-4.jpg" bytes read 10885 written 0
+Jan 24 16:08:19 10.71.56.0 u108109551 [10.71.56.0|get|1|10885|0|0|0|2f696d672f7465616d2d342e6a7067|]
+Jan 24 16:08:19 10.71.56.0 u108109551 close "/img/team-3.jpg" bytes read 20643 written 0
+Jan 24 16:08:19 10.71.56.0 u108109551 [10.71.56.0|get|1|20643|0|0|0|2f696d672f7465616d2d332e6a7067|]
+Jan 24 16:08:19 10.71.56.0 u108109551 open "/img/team-2.jpg" flags READ mode 0666
+Jan 24 16:08:19 10.71.56.0 u108109551 open "/img/team-1.jpg" flags READ mode 0666
+Jan 24 16:08:19 10.71.56.0 u108109551 close "/img/team-2.jpg" bytes read 15877 written 0
+Jan 24 16:08:19 10.71.56.0 u108109551 [10.71.56.0|get|0|15877|0|0|0|2f696d672f7465616d2d322e6a7067|]
+Jan 24 16:08:19 10.71.56.0 u108109551 close "/img/team-1.jpg" bytes read 14197 written 0
+Jan 24 16:08:19 10.71.56.0 u108109551 [10.71.56.0|get|0|14197|0|0|0|2f696d672f7465616d2d312e6a7067|]
+Jan 24 16:08:19 10.71.56.0 u108109551 open "/img/portfolio-6.jpg" flags READ mode 0666
+Jan 24 16:08:19 10.71.56.0 u108109551 open "/img/portfolio-5.jpg" flags READ mode 0666
+Jan 24 16:08:19 10.71.56.0 u108109551 close "/img/portfolio-6.jpg" bytes read 26002 written 0
+Jan 24 16:08:19 10.71.56.0 u108109551 [10.71.56.0|get|0|26002|0|0|0|2f696d672f706f7274666f6c696f2d362e6a7067|]
+Jan 24 16:08:19 10.71.56.0 u108109551 close "/img/portfolio-5.jpg" bytes read 16734 written 0
+Jan 24 16:08:19 10.71.56.0 u108109551 [10.71.56.0|get|0|16734|0|0|0|2f696d672f706f7274666f6c696f2d352e6a7067|]
+Jan 24 16:08:19 10.71.56.0 u108109551 open "/img/portfolio-4.jpg" flags READ mode 0666
+Jan 24 16:08:19 10.71.56.0 u108109551 open "/img/portfolio-3.jpg" flags READ mode 0666
+Jan 24 16:08:19 10.71.56.0 u108109551 close "/img/portfolio-4.jpg" bytes read 28300 written 0
+Jan 24 16:08:19 10.71.56.0 u108109551 [10.71.56.0|get|0|28300|0|0|0|2f696d672f706f7274666f6c696f2d342e6a7067|]
+Jan 24 16:08:19 10.71.56.0 u108109551 close "/img/portfolio-3.jpg" bytes read 19390 written 0
+Jan 24 16:08:19 10.71.56.0 u108109551 [10.71.56.0|get|0|19390|0|0|0|2f696d672f706f7274666f6c696f2d332e6a7067|]
+Jan 24 16:08:19 10.71.56.0 u108109551 open "/img/portfolio-2.jpg" flags READ mode 0666
+Jan 24 16:08:19 10.71.56.0 u108109551 open "/img/portfolio-1.jpg" flags READ mode 0666
+Jan 24 16:08:19 10.71.56.0 u108109551 close "/img/portfolio-2.jpg" bytes read 38804 written 0
+Jan 24 16:08:19 10.71.56.0 u108109551 [10.71.56.0|get|0|38804|0|0|0|2f696d672f706f7274666f6c696f2d322e6a7067|]
+Jan 24 16:08:19 10.71.56.0 u108109551 close "/img/portfolio-1.jpg" bytes read 19705 written 0
+Jan 24 16:08:19 10.71.56.0 u108109551 [10.71.56.0|get|0|19705|0|0|0|2f696d672f706f7274666f6c696f2d312e6a7067|]
+Jan 24 16:08:20 10.71.56.0 u108109551 open "/img/hero.png" flags READ mode 0666
+Jan 24 16:08:20 10.71.56.0 u108109551 open "/img/hero-bg.jpg" flags READ mode 0666
+Jan 24 16:08:20 10.71.56.0 u108109551 close "/img/hero-bg.jpg" bytes read 48999 written 0
+Jan 24 16:08:20 10.71.56.0 u108109551 [10.71.56.0|get|0|48999|0|0|0|2f696d672f6865726f2d62672e6a7067|]
+Jan 24 16:08:20 10.71.56.0 u108109551 open "/img/contact.jpg" flags READ mode 0666
+Jan 24 16:08:20 10.71.56.0 u108109551 close "/img/contact.jpg" bytes read 138156 written 0
+Jan 24 16:08:20 10.71.56.0 u108109551 [10.71.56.0|get|0|138156|0|0|0|2f696d672f636f6e746163742e6a7067|]
+Jan 24 16:08:21 10.71.56.0 u108109551 open "/img/blog-2.jpg" flags READ mode 0666
+Jan 24 16:08:21 10.71.56.0 u108109551 close "/img/blog-2.jpg" bytes read 49726 written 0
+Jan 24 16:08:21 10.71.56.0 u108109551 [10.71.56.0|get|0|49726|0|0|0|2f696d672f626c6f672d322e6a7067|]
+Jan 24 16:08:22 10.71.56.0 u108109551 open "/img/about.jpg" flags READ mode 0666
+Jan 24 16:08:23 10.71.56.0 u108109551 close "/img/about.jpg" bytes read 73774 written 0
+Jan 24 16:08:23 10.71.56.0 u108109551 [10.71.56.0|get|1|73774|0|0|0|2f696d672f61626f75742e6a7067|]
+Jan 24 16:08:23 10.71.56.0 u108109551 close "/img/hero.png" bytes read 12182340 written 0
+Jan 24 16:08:23 10.71.56.0 u108109551 [10.71.56.0|get|3|12182340|0|0|0|2f696d672f6865726f2e706e67|]
+Jan 24 16:08:23 10.71.56.0 u108109551 open "/img/blog-1.jpg" flags READ mode 0666
+Jan 24 16:08:23 10.71.56.0 u108109551 open "/js/main.js" flags READ mode 0666
+Jan 24 16:08:23 10.71.56.0 u108109551 close "/img/blog-1.jpg" bytes read 44639 written 0
+Jan 24 16:08:23 10.71.56.0 u108109551 [10.71.56.0|get|0|44639|0|0|0|2f696d672f626c6f672d312e6a7067|]
+Jan 24 16:08:23 10.71.56.0 u108109551 close "/js/main.js" bytes read 2907 written 0
+Jan 24 16:08:23 10.71.56.0 u108109551 [10.71.56.0|get|0|2907|0|0|0|2f6a732f6d61696e2e6a73|]
+Jan 24 16:08:23 10.71.56.0 u108109551 open "/lib/animate/animate.min.css" flags READ mode 0666
+Jan 24 16:08:23 10.71.56.0 u108109551 open "/lib/animate/animate.css" flags READ mode 0666
+Jan 24 16:08:23 10.71.56.0 u108109551 close "/lib/animate/animate.min.css" bytes read 16964 written 0
+Jan 24 16:08:23 10.71.56.0 u108109551 [10.71.56.0|get|0|16964|0|0|0|2f6c69622f616e696d6174652f616e696d6174652e6d696e2e637373|]
+Jan 24 16:08:23 10.71.56.0 u108109551 close "/lib/animate/animate.css" bytes read 25427 written 0
+Jan 24 16:08:23 10.71.56.0 u108109551 [10.71.56.0|get|0|25427|0|0|0|2f6c69622f616e696d6174652f616e696d6174652e637373|]
+Jan 24 16:08:23 10.71.56.0 u108109551 open "/lib/easing/easing.js" flags READ mode 0666
+Jan 24 16:08:23 10.71.56.0 u108109551 close "/lib/easing/easing.js" bytes read 4092 written 0
+Jan 24 16:08:23 10.71.56.0 u108109551 [10.71.56.0|get|0|4092|0|0|0|2f6c69622f656173696e672f656173696e672e6a73|]
+Jan 24 16:08:23 10.71.56.0 u108109551 open "/lib/easing/easing.min.js" flags READ mode 0666
+Jan 24 16:08:24 10.71.56.0 u108109551 close "/lib/easing/easing.min.js" bytes read 2303 written 0
+Jan 24 16:08:24 10.71.56.0 u108109551 [10.71.56.0|get|1|2303|0|0|0|2f6c69622f656173696e672f656173696e672e6d696e2e6a73|]
+Jan 24 16:08:24 10.71.56.0 u108109551 open "/lib/isotope/isotope.pkgd.js" flags READ mode 0666
+Jan 24 16:08:24 10.71.56.0 u108109551 open "/lib/isotope/isotope.pkgd.min.js" flags READ mode 0666
+Jan 24 16:08:24 10.71.56.0 u108109551 close "/lib/isotope/isotope.pkgd.min.js" bytes read 35503 written 0
+Jan 24 16:08:24 10.71.56.0 u108109551 [10.71.56.0|get|0|35503|0|0|0|2f6c69622f69736f746f70652f69736f746f70652e706b67642e6d696e2e6a73|]
+Jan 24 16:08:24 10.71.56.0 u108109551 close "/lib/isotope/isotope.pkgd.js" bytes read 91330 written 0
+Jan 24 16:08:24 10.71.56.0 u108109551 [10.71.56.0|get|0|91330|0|0|0|2f6c69622f69736f746f70652f69736f746f70652e706b67642e6a73|]
+Jan 24 16:08:25 10.71.56.0 u108109551 open "/lib/lightbox/links.php" flags READ mode 0666
+Jan 24 16:08:25 10.71.56.0 u108109551 open "/lib/lightbox/css/lightbox.min.css" flags READ mode 0666
+Jan 24 16:08:25 10.71.56.0 u108109551 close "/lib/lightbox/links.php" bytes read 134 written 0
+Jan 24 16:08:25 10.71.56.0 u108109551 [10.71.56.0|get|0|134|0|0|0|2f6c69622f6c69676874626f782f6c696e6b732e706870|]
+Jan 24 16:08:25 10.71.56.0 u108109551 close "/lib/lightbox/css/lightbox.min.css" bytes read 2608 written 0
+Jan 24 16:08:25 10.71.56.0 u108109551 [10.71.56.0|get|0|2608|0|0|0|2f6c69622f6c69676874626f782f6373732f6c69676874626f782e6d696e2e637373|]
+Jan 24 16:08:25 10.71.56.0 u108109551 open "/lib/lightbox/css/lightbox.css" flags READ mode 0666
+Jan 24 16:08:25 10.71.56.0 u108109551 open "/lib/lightbox/images/next.png" flags READ mode 0666
+Jan 24 16:08:25 10.71.56.0 u108109551 close "/lib/lightbox/css/lightbox.css" bytes read 3714 written 0
+Jan 24 16:08:25 10.71.56.0 u108109551 close "/lib/lightbox/images/next.png" bytes read 1350 written 0
+Jan 24 16:08:25 10.71.56.0 u108109551 [10.71.56.0|get|0|3714|0|0|0|2f6c69622f6c69676874626f782f6373732f6c69676874626f782e637373|]
+Jan 24 16:08:25 10.71.56.0 u108109551 [10.71.56.0|get|0|1350|0|0|0|2f6c69622f6c69676874626f782f696d616765732f6e6578742e706e67|]
+Jan 24 16:08:25 10.71.56.0 u108109551 open "/lib/lightbox/images/prev.png" flags READ mode 0666
+Jan 24 16:08:25 10.71.56.0 u108109551 open "/lib/lightbox/images/loading.gif" flags READ mode 0666
+Jan 24 16:08:25 10.71.56.0 u108109551 close "/lib/lightbox/images/prev.png" bytes read 1360 written 0
+Jan 24 16:08:25 10.71.56.0 u108109551 [10.71.56.0|get|0|1360|0|0|0|2f6c69622f6c69676874626f782f696d616765732f707265762e706e67|]
+Jan 24 16:08:25 10.71.56.0 u108109551 open "/lib/lightbox/images/close.png" flags READ mode 0666
+Jan 24 16:08:25 10.71.56.0 u108109551 close "/lib/lightbox/images/loading.gif" bytes read 8476 written 0
+Jan 24 16:08:25 10.71.56.0 u108109551 [10.71.56.0|get|0|8476|0|0|0|2f6c69622f6c69676874626f782f696d616765732f6c6f6164696e672e676966|]
+Jan 24 16:08:26 10.71.56.0 u108109551 close "/lib/lightbox/images/close.png" bytes read 280 written 0
+Jan 24 16:08:26 10.71.56.0 u108109551 [10.71.56.0|get|1|280|0|0|0|2f6c69622f6c69676874626f782f696d616765732f636c6f73652e706e67|]
+Jan 24 16:08:26 10.71.56.0 u108109551 open "/lib/lightbox/js/lightbox.min.js" flags READ mode 0666
+Jan 24 16:08:26 10.71.56.0 u108109551 open "/lib/lightbox/js/lightbox.js" flags READ mode 0666
+Jan 24 16:08:26 10.71.56.0 u108109551 close "/lib/lightbox/js/lightbox.min.js" bytes read 9418 written 0
+Jan 24 16:08:26 10.71.56.0 u108109551 [10.71.56.0|get|0|9418|0|0|0|2f6c69622f6c69676874626f782f6a732f6c69676874626f782e6d696e2e6a73|]
+Jan 24 16:08:26 10.71.56.0 u108109551 close "/lib/lightbox/js/lightbox.js" bytes read 18410 written 0
+Jan 24 16:08:26 10.71.56.0 u108109551 [10.71.56.0|get|0|18410|0|0|0|2f6c69622f6c69676874626f782f6a732f6c69676874626f782e6a73|]
+Jan 24 16:08:26 10.71.56.0 u108109551 open "/lib/owlcarousel/owl.carousel.js" flags READ mode 0666
+Jan 24 16:08:26 10.71.56.0 u108109551 open "/lib/owlcarousel/owl.carousel.min.js" flags READ mode 0666
+Jan 24 16:08:26 10.71.56.0 u108109551 close "/lib/owlcarousel/owl.carousel.js" bytes read 85368 written 0
+Jan 24 16:08:26 10.71.56.0 u108109551 [10.71.56.0|get|0|85368|0|0|0|2f6c69622f6f776c6361726f7573656c2f6f776c2e6361726f7573656c2e6a73|]
+Jan 24 16:08:26 10.71.56.0 u108109551 open "/lib/owlcarousel/LICENSE" flags READ mode 0666
+Jan 24 16:08:26 10.71.56.0 u108109551 close "/lib/owlcarousel/owl.carousel.min.js" bytes read 42766 written 0
+Jan 24 16:08:26 10.71.56.0 u108109551 [10.71.56.0|get|0|42766|0|0|0|2f6c69622f6f776c6361726f7573656c2f6f776c2e6361726f7573656c2e6d696e2e6a73|]
+Jan 24 16:08:26 10.71.56.0 u108109551 close "/lib/owlcarousel/LICENSE" bytes read 1090 written 0
+Jan 24 16:08:26 10.71.56.0 u108109551 [10.71.56.0|get|0|1090|0|0|0|2f6c69622f6f776c6361726f7573656c2f4c4943454e5345|]
+Jan 24 16:08:27 10.71.56.0 u108109551 open "/lib/owlcarousel/assets/owl.video.play.png" flags READ mode 0666
+Jan 24 16:08:27 10.71.56.0 u108109551 open "/lib/owlcarousel/assets/owl.theme.green.min.css" flags READ mode 0666
+Jan 24 16:08:27 10.71.56.0 u108109551 close "/lib/owlcarousel/assets/owl.video.play.png" bytes read 4976 written 0
+Jan 24 16:08:27 10.71.56.0 u108109551 [10.71.56.0|get|0|4976|0|0|0|2f6c69622f6f776c6361726f7573656c2f6173736574732f6f776c2e766964656f2e706c61792e706e67|]
+Jan 24 16:08:27 10.71.56.0 u108109551 close "/lib/owlcarousel/assets/owl.theme.green.min.css" bytes read 936 written 0
+Jan 24 16:08:27 10.71.56.0 u108109551 [10.71.56.0|get|0|936|0|0|0|2f6c69622f6f776c6361726f7573656c2f6173736574732f6f776c2e7468656d652e677265656e2e6d696e2e637373|]
+Jan 24 16:08:27 10.71.56.0 u108109551 open "/lib/owlcarousel/assets/owl.theme.green.css" flags READ mode 0666
+Jan 24 16:08:27 10.71.56.0 u108109551 open "/lib/owlcarousel/assets/owl.theme.default.min.css" flags READ mode 0666
+Jan 24 16:08:27 10.71.56.0 u108109551 close "/lib/owlcarousel/assets/owl.theme.green.css" bytes read 1301 written 0
+Jan 24 16:08:27 10.71.56.0 u108109551 [10.71.56.0|get|0|1301|0|0|0|2f6c69622f6f776c6361726f7573656c2f6173736574732f6f776c2e7468656d652e677265656e2e637373|]
+Jan 24 16:08:27 10.71.56.0 u108109551 close "/lib/owlcarousel/assets/owl.theme.default.min.css" bytes read 936 written 0
+Jan 24 16:08:27 10.71.56.0 u108109551 [10.71.56.0|get|0|936|0|0|0|2f6c69622f6f776c6361726f7573656c2f6173736574732f6f776c2e7468656d652e64656661756c742e6d696e2e637373|]
+Jan 24 16:08:27 10.71.56.0 u108109551 open "/lib/owlcarousel/assets/owl.theme.default.css" flags READ mode 0666
+Jan 24 16:08:27 10.71.56.0 u108109551 open "/lib/owlcarousel/assets/owl.carousel.min.css" flags READ mode 0666
+Jan 24 16:08:27 10.71.56.0 u108109551 close "/lib/owlcarousel/assets/owl.theme.default.css" bytes read 1303 written 0
+Jan 24 16:08:27 10.71.56.0 u108109551 [10.71.56.0|get|0|1303|0|0|0|2f6c69622f6f776c6361726f7573656c2f6173736574732f6f776c2e7468656d652e64656661756c742e637373|]
+Jan 24 16:08:27 10.71.56.0 u108109551 close "/lib/owlcarousel/assets/owl.carousel.min.css" bytes read 2936 written 0
+Jan 24 16:08:27 10.71.56.0 u108109551 [10.71.56.0|get|0|2936|0|0|0|2f6c69622f6f776c6361726f7573656c2f6173736574732f6f776c2e6361726f7573656c2e6d696e2e637373|]
+Jan 24 16:08:27 10.71.56.0 u108109551 open "/lib/owlcarousel/assets/ajax-loader.gif" flags READ mode 0666
+Jan 24 16:08:27 10.71.56.0 u108109551 close "/lib/owlcarousel/assets/ajax-loader.gif" bytes read 3208 written 0
+Jan 24 16:08:27 10.71.56.0 u108109551 [10.71.56.0|get|0|3208|0|0|0|2f6c69622f6f776c6361726f7573656c2f6173736574732f616a61782d6c6f616465722e676966|]
+Jan 24 16:08:27 10.71.56.0 u108109551 open "/lib/owlcarousel/assets/owl.carousel.css" flags READ mode 0666
+Jan 24 16:08:27 10.71.56.0 u108109551 close "/lib/owlcarousel/assets/owl.carousel.css" bytes read 4028 written 0
+Jan 24 16:08:27 10.71.56.0 u108109551 [10.71.56.0|get|0|4028|0|0|0|2f6c69622f6f776c6361726f7573656c2f6173736574732f6f776c2e6361726f7573656c2e637373|]
+Jan 24 16:08:27 10.71.56.0 u108109551 open "/lib/typed/typed.min.js" flags READ mode 0666
+Jan 24 16:08:28 10.71.56.0 u108109551 close "/lib/typed/typed.min.js" bytes read 11749 written 0
+Jan 24 16:08:28 10.71.56.0 u108109551 [10.71.56.0|get|1|11749|0|0|0|2f6c69622f74797065642f74797065642e6d696e2e6a73|]
+Jan 24 16:08:28 10.71.56.0 u108109551 open "/lib/typed/typed.js" flags READ mode 0666
+Jan 24 16:08:28 10.71.56.0 u108109551 close "/lib/typed/typed.js" bytes read 32825 written 0
+Jan 24 16:08:28 10.71.56.0 u108109551 [10.71.56.0|get|0|32825|0|0|0|2f6c69622f74797065642f74797065642e6a73|]
+Jan 24 16:08:28 10.71.56.0 u108109551 open "/lib/waypoints/links.php" flags READ mode 0666
+Jan 24 16:08:28 10.71.56.0 u108109551 open "/lib/waypoints/waypoints.min.js" flags READ mode 0666
+Jan 24 16:08:28 10.71.56.0 u108109551 close "/lib/waypoints/links.php" bytes read 82 written 0
+Jan 24 16:08:28 10.71.56.0 u108109551 [10.71.56.0|get|0|82|0|0|0|2f6c69622f776179706f696e74732f6c696e6b732e706870|]
+Jan 24 16:08:28 10.71.56.0 u108109551 close "/lib/waypoints/waypoints.min.js" bytes read 9028 written 0
+Jan 24 16:08:28 10.71.56.0 u108109551 [10.71.56.0|get|0|9028|0|0|0|2f6c69622f776179706f696e74732f776179706f696e74732e6d696e2e6a73|]
+Jan 24 16:08:28 10.71.56.0 u108109551 open "/lib/wow/wow.min.js" flags READ mode 0666
+Jan 24 16:08:29 10.71.56.0 u108109551 open "/lib/wow/wow.js" flags READ mode 0666
+Jan 24 16:08:29 10.71.56.0 u108109551 close "/lib/wow/wow.min.js" bytes read 8159 written 0
+Jan 24 16:08:29 10.71.56.0 u108109551 [10.71.56.0|get|1|8159|0|0|0|2f6c69622f776f772f776f772e6d696e2e6a73|]
+Jan 24 16:08:29 10.71.56.0 u108109551 close "/lib/wow/wow.js" bytes read 17059 written 0
+Jan 24 16:08:29 10.71.56.0 u108109551 [10.71.56.0|get|0|17059|0|0|0|2f6c69622f776f772f776f772e6a73|]
+Jan 24 16:08:29 10.71.56.0 u108109551 open "/mail/jqBootstrapValidation.min.js" flags READ mode 0666
+Jan 24 16:08:29 10.71.56.0 u108109551 open "/mail/contact.php" flags READ mode 0666
+Jan 24 16:08:29 10.71.56.0 u108109551 close "/mail/jqBootstrapValidation.min.js" bytes read 14877 written 0
+Jan 24 16:08:29 10.71.56.0 u108109551 [10.71.56.0|get|0|14877|0|0|0|2f6d61696c2f6a71426f6f74737472617056616c69646174696f6e2e6d696e2e6a73|]
+Jan 24 16:08:29 10.71.56.0 u108109551 close "/mail/contact.php" bytes read 789 written 0
+Jan 24 16:08:29 10.71.56.0 u108109551 [10.71.56.0|get|0|789|0|0|0|2f6d61696c2f636f6e746163742e706870|]
+Jan 24 16:08:29 10.71.56.0 u108109551 open "/mail/contact.js" flags READ mode 0666
+Jan 24 16:08:29 10.71.56.0 u108109551 close "/mail/contact.js" bytes read 2598 written 0
+Jan 24 16:08:29 10.71.56.0 u108109551 [10.71.56.0|get|0|2598|0|0|0|2f6d61696c2f636f6e746163742e6a73|]
+Jan 24 16:08:29 10.71.56.0 u108109551 open "/css/style.css" flags READ mode 0666
+Jan 24 16:08:29 10.71.56.0 u108109551 close "/css/style.css" bytes read 31505 written 0
+Jan 24 16:08:29 10.71.56.0 u108109551 [10.71.56.0|get|0|31505|0|0|0|2f6373732f7374796c652e637373|]
+Jan 24 16:08:56 10.71.56.0 u108109551 session closed for local user u108109551 from [10.71.56.0]
+Jan 24 16:08:56 10.71.56.0 u108109551 Connection closed by 10.71.56.0 port 63060
+Jan 24 16:08:56 10.71.56.0 u108109551 sent status No such file
+Jan 24 16:08:56 10.71.56.0 u108109551 open "/construccion/Password-Template.css" flags READ mode 0666
+Jan 24 16:08:56 10.71.56.0 u108109551 close "/construccion/Password-Template.css" bytes read 683 written 0
+Jan 24 16:08:56 10.71.56.0 u108109551 [10.71.56.0|get|0|683|0|0|0|2f636f6e737472756363696f6e2f50617373776f72642d54656d706c6174652e637373|]
+Jan 24 16:08:56 10.71.56.0 u108109551 open "/construccion/Page-8.css" flags READ mode 0666
+Jan 24 16:08:56 10.71.56.0 u108109551 Connection from 10.71.56.0 port 63380 on 82.165.88.218 port 22
+Jan 24 16:08:56 10.71.56.0 u108109551 Accepted password for u108109551 from 10.71.56.0 port 63380 ssh2
+Jan 24 16:08:57 10.71.56.0 u108109551 Starting session: subsystem 'sftp' for u108109551 from 10.71.56.0 port 63380 id 0
+Jan 24 16:08:57 10.71.56.0 u108109551 close "/construccion/Page-8.css" bytes read 954 written 0
+Jan 24 16:08:57 10.71.56.0 u108109551 [10.71.56.0|get|1|954|0|0|0|2f636f6e737472756363696f6e2f506167652d382e637373|]
+Jan 24 16:08:57 10.71.56.0 u108109551 open "/construccion/nicepage.js" flags READ mode 0666
+Jan 24 16:08:57 10.71.56.0 u108109551 close "/construccion/nicepage.js" bytes read 241000 written 0
+Jan 24 16:08:57 10.71.56.0 u108109551 [10.71.56.0|get|0|241000|0|0|0|2f636f6e737472756363696f6e2f6e696365706167652e6a73|]
+Jan 24 16:08:57 10.71.56.0 u108109551 open "/construccion/nicepage.css" flags READ mode 0666
+Jan 24 16:08:57 10.71.56.0 u108109551 Connection closed by 10.71.56.0 port 63380
+Jan 24 16:08:57 10.71.56.0 u108109551 close "/construccion/nicepage.css" bytes read 1238282 written 0
+Jan 24 16:08:57 10.71.56.0 u108109551 [10.71.56.0|get|0|1238282|0|0|0|2f636f6e737472756363696f6e2f6e696365706167652e637373|]
+Jan 24 16:08:57 10.71.56.0 u108109551 open "/construccion/index.html" flags READ mode 0666
+Jan 24 16:08:57 10.71.56.0 u108109551 close "/construccion/index.html" bytes read 3174 written 0
+Jan 24 16:08:57 10.71.56.0 u108109551 [10.71.56.0|get|0|3174|0|0|0|2f636f6e737472756363696f6e2f696e6465782e68746d6c|]
+Jan 24 16:08:57 10.71.56.0 u108109551 Connection from 10.71.56.0 port 63388 on 82.165.88.218 port 22
+Jan 24 16:08:58 10.71.56.0 u108109551 Accepted password for u108109551 from 10.71.56.0 port 63388 ssh2
+Jan 24 16:08:58 10.71.56.0 u108109551 Starting session: subsystem 'sftp' for u108109551 from 10.71.56.0 port 63388 id 0
+Jan 24 16:08:58 10.71.56.0 u108109551 session opened for local user u108109551 from [10.71.56.0]
+Jan 24 16:08:58 10.71.56.0 u108109551 open "/construccion/images/60028-Converted.png" flags READ mode 0666
+Jan 24 16:08:58 10.71.56.0 u108109551 close "/construccion/images/60028-Converted.png" bytes read 24223 written 0
+Jan 24 16:08:58 10.71.56.0 u108109551 [10.71.56.0|get|0|24223|0|0|0|2f636f6e737472756363696f6e2f696d616765732f36303032382d436f6e7665727465642e706e67|]
+Jan 24 16:08:58 10.71.56.0 u108109551 open "/construccion/jquery-1.9.1.min.js" flags READ mode 0666
+Jan 24 16:08:58 10.71.56.0 u108109551 open "/css/style.css" flags READ mode 0666
+Jan 24 16:08:58 10.71.56.0 u108109551 close "/css/style.css" bytes read 31505 written 0
+Jan 24 16:08:58 10.71.56.0 u108109551 [10.71.56.0|get|0|31505|0|0|0|2f6373732f7374796c652e637373|]
+Jan 24 16:08:58 10.71.56.0 u108109551 close "/construccion/jquery-1.9.1.min.js" bytes read 92629 written 0
+Jan 24 16:08:58 10.71.56.0 u108109551 [10.71.56.0|get|0|92629|0|0|0|2f636f6e737472756363696f6e2f6a71756572792d312e392e312e6d696e2e6a73|]
+Jan 24 16:08:58 10.71.56.0 u108109551 open "/img/testimonial-3.jpg" flags READ mode 0666
+Jan 24 16:08:58 10.71.56.0 u108109551 open "/img/testimonial-2.jpg" flags READ mode 0666
+Jan 24 16:08:58 10.71.56.0 u108109551 close "/img/testimonial-3.jpg" bytes read 4945 written 0
+Jan 24 16:08:58 10.71.56.0 u108109551 [10.71.56.0|get|0|4945|0|0|0|2f696d672f74657374696d6f6e69616c2d332e6a7067|]
+Jan 24 16:08:59 10.71.56.0 u108109551 close "/img/testimonial-2.jpg" bytes read 4421 written 0
+Jan 24 16:08:59 10.71.56.0 u108109551 [10.71.56.0|get|0|4421|0|0|0|2f696d672f74657374696d6f6e69616c2d322e6a7067|]
+Jan 24 16:08:59 10.71.56.0 u108109551 open "/img/testimonial-1.jpg" flags READ mode 0666
+Jan 24 16:08:59 10.71.56.0 u108109551 open "/img/team-4.jpg" flags READ mode 0666
+Jan 24 16:08:59 10.71.56.0 u108109551 close "/img/testimonial-1.jpg" bytes read 5183 written 0
+Jan 24 16:08:59 10.71.56.0 u108109551 [10.71.56.0|get|0|5183|0|0|0|2f696d672f74657374696d6f6e69616c2d312e6a7067|]
+Jan 24 16:08:59 10.71.56.0 u108109551 close "/img/team-4.jpg" bytes read 10885 written 0
+Jan 24 16:08:59 10.71.56.0 u108109551 [10.71.56.0|get|0|10885|0|0|0|2f696d672f7465616d2d342e6a7067|]
+Jan 24 16:08:59 10.71.56.0 u108109551 open "/img/team-3.jpg" flags READ mode 0666
+Jan 24 16:08:59 10.71.56.0 u108109551 open "/img/team-2.jpg" flags READ mode 0666
+Jan 24 16:08:59 10.71.56.0 u108109551 close "/img/team-3.jpg" bytes read 20643 written 0
+Jan 24 16:08:59 10.71.56.0 u108109551 [10.71.56.0|get|0|20643|0|0|0|2f696d672f7465616d2d332e6a7067|]
+Jan 24 16:08:59 10.71.56.0 u108109551 close "/img/team-2.jpg" bytes read 15877 written 0
+Jan 24 16:08:59 10.71.56.0 u108109551 [10.71.56.0|get|0|15877|0|0|0|2f696d672f7465616d2d322e6a7067|]
+Jan 24 16:08:59 10.71.56.0 u108109551 open "/img/team-1.jpg" flags READ mode 0666
+Jan 24 16:08:59 10.71.56.0 u108109551 open "/img/portfolio-6.jpg" flags READ mode 0666
+Jan 24 16:08:59 10.71.56.0 u108109551 close "/img/team-1.jpg" bytes read 14197 written 0
+Jan 24 16:08:59 10.71.56.0 u108109551 [10.71.56.0|get|0|14197|0|0|0|2f696d672f7465616d2d312e6a7067|]
+Jan 24 16:08:59 10.71.56.0 u108109551 close "/img/portfolio-6.jpg" bytes read 26002 written 0
+Jan 24 16:08:59 10.71.56.0 u108109551 [10.71.56.0|get|0|26002|0|0|0|2f696d672f706f7274666f6c696f2d362e6a7067|]
+Jan 24 16:08:59 10.71.56.0 u108109551 open "/img/portfolio-5.jpg" flags READ mode 0666
+Jan 24 16:08:59 10.71.56.0 u108109551 open "/img/portfolio-4.jpg" flags READ mode 0666
+Jan 24 16:08:59 10.71.56.0 u108109551 close "/img/portfolio-5.jpg" bytes read 16734 written 0
+Jan 24 16:08:59 10.71.56.0 u108109551 [10.71.56.0|get|0|16734|0|0|0|2f696d672f706f7274666f6c696f2d352e6a7067|]
+Jan 24 16:08:59 10.71.56.0 u108109551 close "/img/portfolio-4.jpg" bytes read 28300 written 0
+Jan 24 16:08:59 10.71.56.0 u108109551 [10.71.56.0|get|0|28300|0|0|0|2f696d672f706f7274666f6c696f2d342e6a7067|]
+Jan 24 16:08:59 10.71.56.0 u108109551 open "/img/portfolio-3.jpg" flags READ mode 0666
+Jan 24 16:09:00 10.71.56.0 u108109551 open "/img/portfolio-2.jpg" flags READ mode 0666
+Jan 24 16:09:00 10.71.56.0 u108109551 close "/img/portfolio-3.jpg" bytes read 19390 written 0
+Jan 24 16:09:00 10.71.56.0 u108109551 [10.71.56.0|get|1|19390|0|0|0|2f696d672f706f7274666f6c696f2d332e6a7067|]
+Jan 24 16:09:00 10.71.56.0 u108109551 close "/img/portfolio-2.jpg" bytes read 38804 written 0
+Jan 24 16:09:00 10.71.56.0 u108109551 [10.71.56.0|get|0|38804|0|0|0|2f696d672f706f7274666f6c696f2d322e6a7067|]
+Jan 24 16:09:00 10.71.56.0 u108109551 open "/img/portfolio-1.jpg" flags READ mode 0666
+Jan 24 16:09:00 10.71.56.0 u108109551 open "/img/hero.png" flags READ mode 0666
+Jan 24 16:09:00 10.71.56.0 u108109551 close "/img/portfolio-1.jpg" bytes read 19705 written 0
+Jan 24 16:09:00 10.71.56.0 u108109551 [10.71.56.0|get|0|19705|0|0|0|2f696d672f706f7274666f6c696f2d312e6a7067|]
+Jan 24 16:09:00 10.71.56.0 u108109551 open "/img/hero-bg.jpg" flags READ mode 0666
+Jan 24 16:09:00 10.71.56.0 u108109551 close "/img/hero-bg.jpg" bytes read 48999 written 0
+Jan 24 16:09:00 10.71.56.0 u108109551 [10.71.56.0|get|0|48999|0|0|0|2f696d672f6865726f2d62672e6a7067|]
+Jan 24 16:09:01 10.71.56.0 u108109551 open "/img/contact.jpg" flags READ mode 0666
+Jan 24 16:09:01 10.71.56.0 u108109551 close "/img/contact.jpg" bytes read 138156 written 0
+Jan 24 16:09:01 10.71.56.0 u108109551 [10.71.56.0|get|0|138156|0|0|0|2f696d672f636f6e746163742e6a7067|]
+Jan 24 16:09:02 10.71.56.0 u108109551 open "/img/blog-2.jpg" flags READ mode 0666
+Jan 24 16:09:02 10.71.56.0 u108109551 close "/img/blog-2.jpg" bytes read 49726 written 0
+Jan 24 16:09:02 10.71.56.0 u108109551 [10.71.56.0|get|0|49726|0|0|0|2f696d672f626c6f672d322e6a7067|]
+Jan 24 16:09:03 10.71.56.0 u108109551 open "/img/about.jpg" flags READ mode 0666
+Jan 24 16:09:03 10.71.56.0 u108109551 close "/img/hero.png" bytes read 12182340 written 0
+Jan 24 16:09:03 10.71.56.0 u108109551 [10.71.56.0|get|3|12182340|0|0|0|2f696d672f6865726f2e706e67|]
+Jan 24 16:09:03 10.71.56.0 u108109551 close "/img/about.jpg" bytes read 73774 written 0
+Jan 24 16:09:03 10.71.56.0 u108109551 [10.71.56.0|get|0|73774|0|0|0|2f696d672f61626f75742e6a7067|]
+Jan 24 16:09:03 10.71.56.0 u108109551 open "/img/blog-1.jpg" flags READ mode 0666
+Jan 24 16:09:03 10.71.56.0 u108109551 close "/img/blog-1.jpg" bytes read 44639 written 0
+Jan 24 16:09:03 10.71.56.0 u108109551 [10.71.56.0|get|0|44639|0|0|0|2f696d672f626c6f672d312e6a7067|]
+Jan 24 16:09:03 10.71.56.0 u108109551 open "/js/main.js" flags READ mode 0666
+Jan 24 16:09:03 10.71.56.0 u108109551 close "/js/main.js" bytes read 2907 written 0
+Jan 24 16:09:03 10.71.56.0 u108109551 [10.71.56.0|get|0|2907|0|0|0|2f6a732f6d61696e2e6a73|]
+Jan 24 16:09:03 10.71.56.0 u108109551 open "/lib/animate/animate.min.css" flags READ mode 0666
+Jan 24 16:09:03 10.71.56.0 u108109551 close "/lib/animate/animate.min.css" bytes read 16964 written 0
+Jan 24 16:09:03 10.71.56.0 u108109551 [10.71.56.0|get|0|16964|0|0|0|2f6c69622f616e696d6174652f616e696d6174652e6d696e2e637373|]
+Jan 24 16:09:03 10.71.56.0 u108109551 open "/lib/animate/animate.css" flags READ mode 0666
+Jan 24 16:09:03 10.71.56.0 u108109551 close "/lib/animate/animate.css" bytes read 25427 written 0
+Jan 24 16:09:03 10.71.56.0 u108109551 [10.71.56.0|get|0|25427|0|0|0|2f6c69622f616e696d6174652f616e696d6174652e637373|]
+Jan 24 16:09:03 10.71.56.0 u108109551 open "/lib/easing/easing.js" flags READ mode 0666
+Jan 24 16:09:04 10.71.56.0 u108109551 close "/lib/easing/easing.js" bytes read 4092 written 0
+Jan 24 16:09:04 10.71.56.0 u108109551 [10.71.56.0|get|1|4092|0|0|0|2f6c69622f656173696e672f656173696e672e6a73|]
+Jan 24 16:09:04 10.71.56.0 u108109551 open "/lib/easing/easing.min.js" flags READ mode 0666
+Jan 24 16:09:04 10.71.56.0 u108109551 close "/lib/easing/easing.min.js" bytes read 2303 written 0
+Jan 24 16:09:04 10.71.56.0 u108109551 [10.71.56.0|get|0|2303|0|0|0|2f6c69622f656173696e672f656173696e672e6d696e2e6a73|]
+Jan 24 16:09:04 10.71.56.0 u108109551 open "/lib/isotope/isotope.pkgd.js" flags READ mode 0666
+Jan 24 16:09:04 10.71.56.0 u108109551 close "/lib/isotope/isotope.pkgd.js" bytes read 91330 written 0
+Jan 24 16:09:04 10.71.56.0 u108109551 [10.71.56.0|get|0|91330|0|0|0|2f6c69622f69736f746f70652f69736f746f70652e706b67642e6a73|]
+Jan 24 16:09:04 10.71.56.0 u108109551 open "/lib/isotope/isotope.pkgd.min.js" flags READ mode 0666
+Jan 24 16:09:04 10.71.56.0 u108109551 close "/lib/isotope/isotope.pkgd.min.js" bytes read 35503 written 0
+Jan 24 16:09:04 10.71.56.0 u108109551 [10.71.56.0|get|0|35503|0|0|0|2f6c69622f69736f746f70652f69736f746f70652e706b67642e6d696e2e6a73|]
+Jan 24 16:09:04 10.71.56.0 u108109551 open "/lib/lightbox/links.php" flags READ mode 0666
+Jan 24 16:09:04 10.71.56.0 u108109551 close "/lib/lightbox/links.php" bytes read 134 written 0
+Jan 24 16:09:04 10.71.56.0 u108109551 [10.71.56.0|get|0|134|0|0|0|2f6c69622f6c69676874626f782f6c696e6b732e706870|]
+Jan 24 16:09:04 10.71.56.0 u108109551 open "/lib/lightbox/css/lightbox.min.css" flags READ mode 0666
+Jan 24 16:09:04 10.71.56.0 u108109551 close "/lib/lightbox/css/lightbox.min.css" bytes read 2608 written 0
+Jan 24 16:09:04 10.71.56.0 u108109551 [10.71.56.0|get|0|2608|0|0|0|2f6c69622f6c69676874626f782f6373732f6c69676874626f782e6d696e2e637373|]
+Jan 24 16:09:05 10.71.56.0 u108109551 open "/lib/lightbox/css/lightbox.css" flags READ mode 0666
+Jan 24 16:09:05 10.71.56.0 u108109551 close "/lib/lightbox/css/lightbox.css" bytes read 3714 written 0
+Jan 24 16:09:05 10.71.56.0 u108109551 [10.71.56.0|get|0|3714|0|0|0|2f6c69622f6c69676874626f782f6373732f6c69676874626f782e637373|]
+Jan 24 16:09:05 10.71.56.0 u108109551 open "/lib/lightbox/images/next.png" flags READ mode 0666
+Jan 24 16:09:05 10.71.56.0 u108109551 close "/lib/lightbox/images/next.png" bytes read 1350 written 0
+Jan 24 16:09:05 10.71.56.0 u108109551 [10.71.56.0|get|0|1350|0|0|0|2f6c69622f6c69676874626f782f696d616765732f6e6578742e706e67|]
+Jan 24 16:09:05 10.71.56.0 u108109551 open "/lib/lightbox/images/prev.png" flags READ mode 0666
+Jan 24 16:09:05 10.71.56.0 u108109551 open "/lib/lightbox/images/loading.gif" flags READ mode 0666
+Jan 24 16:09:05 10.71.56.0 u108109551 close "/lib/lightbox/images/prev.png" bytes read 1360 written 0
+Jan 24 16:09:05 10.71.56.0 u108109551 [10.71.56.0|get|0|1360|0|0|0|2f6c69622f6c69676874626f782f696d616765732f707265762e706e67|]
+Jan 24 16:09:05 10.71.56.0 u108109551 close "/lib/lightbox/images/loading.gif" bytes read 8476 written 0
+Jan 24 16:09:05 10.71.56.0 u108109551 [10.71.56.0|get|0|8476|0|0|0|2f6c69622f6c69676874626f782f696d616765732f6c6f6164696e672e676966|]
+Jan 24 16:09:05 10.71.56.0 u108109551 open "/lib/lightbox/images/close.png" flags READ mode 0666
+Jan 24 16:09:05 10.71.56.0 u108109551 close "/lib/lightbox/images/close.png" bytes read 280 written 0
+Jan 24 16:09:05 10.71.56.0 u108109551 [10.71.56.0|get|0|280|0|0|0|2f6c69622f6c69676874626f782f696d616765732f636c6f73652e706e67|]
+Jan 24 16:09:05 10.71.56.0 u108109551 open "/lib/lightbox/js/lightbox.min.js" flags READ mode 0666
+Jan 24 16:09:05 10.71.56.0 u108109551 close "/lib/lightbox/js/lightbox.min.js" bytes read 9418 written 0
+Jan 24 16:09:05 10.71.56.0 u108109551 [10.71.56.0|get|0|9418|0|0|0|2f6c69622f6c69676874626f782f6a732f6c69676874626f782e6d696e2e6a73|]
+Jan 24 16:09:05 10.71.56.0 u108109551 open "/lib/lightbox/js/lightbox.js" flags READ mode 0666
+Jan 24 16:09:05 10.71.56.0 u108109551 close "/lib/lightbox/js/lightbox.js" bytes read 18410 written 0
+Jan 24 16:09:05 10.71.56.0 u108109551 [10.71.56.0|get|0|18410|0|0|0|2f6c69622f6c69676874626f782f6a732f6c69676874626f782e6a73|]
+Jan 24 16:09:06 10.71.56.0 u108109551 open "/lib/owlcarousel/owl.carousel.js" flags READ mode 0666
+Jan 24 16:09:06 10.71.56.0 u108109551 open "/lib/owlcarousel/owl.carousel.min.js" flags READ mode 0666
+Jan 24 16:09:06 10.71.56.0 u108109551 close "/lib/owlcarousel/owl.carousel.js" bytes read 85368 written 0
+Jan 24 16:09:06 10.71.56.0 u108109551 [10.71.56.0|get|0|85368|0|0|0|2f6c69622f6f776c6361726f7573656c2f6f776c2e6361726f7573656c2e6a73|]
+Jan 24 16:09:06 10.71.56.0 u108109551 open "/lib/owlcarousel/LICENSE" flags READ mode 0666
+Jan 24 16:09:06 10.71.56.0 u108109551 close "/lib/owlcarousel/owl.carousel.min.js" bytes read 42766 written 0
+Jan 24 16:09:06 10.71.56.0 u108109551 [10.71.56.0|get|0|42766|0|0|0|2f6c69622f6f776c6361726f7573656c2f6f776c2e6361726f7573656c2e6d696e2e6a73|]
+Jan 24 16:09:06 10.71.56.0 u108109551 close "/lib/owlcarousel/LICENSE" bytes read 1090 written 0
+Jan 24 16:09:06 10.71.56.0 u108109551 [10.71.56.0|get|0|1090|0|0|0|2f6c69622f6f776c6361726f7573656c2f4c4943454e5345|]
+Jan 24 16:09:06 10.71.56.0 u108109551 open "/lib/owlcarousel/assets/owl.video.play.png" flags READ mode 0666
+Jan 24 16:09:06 10.71.56.0 u108109551 open "/lib/owlcarousel/assets/owl.theme.green.min.css" flags READ mode 0666
+Jan 24 16:09:06 10.71.56.0 u108109551 close "/lib/owlcarousel/assets/owl.video.play.png" bytes read 4976 written 0
+Jan 24 16:09:06 10.71.56.0 u108109551 [10.71.56.0|get|0|4976|0|0|0|2f6c69622f6f776c6361726f7573656c2f6173736574732f6f776c2e766964656f2e706c61792e706e67|]
+Jan 24 16:09:06 10.71.56.0 u108109551 close "/lib/owlcarousel/assets/owl.theme.green.min.css" bytes read 936 written 0
+Jan 24 16:09:06 10.71.56.0 u108109551 [10.71.56.0|get|0|936|0|0|0|2f6c69622f6f776c6361726f7573656c2f6173736574732f6f776c2e7468656d652e677265656e2e6d696e2e637373|]
+Jan 24 16:09:06 10.71.56.0 u108109551 open "/lib/owlcarousel/assets/owl.theme.green.css" flags READ mode 0666
+Jan 24 16:09:06 10.71.56.0 u108109551 open "/lib/owlcarousel/assets/owl.theme.default.min.css" flags READ mode 0666
+Jan 24 16:09:06 10.71.56.0 u108109551 close "/lib/owlcarousel/assets/owl.theme.green.css" bytes read 1301 written 0
+Jan 24 16:09:06 10.71.56.0 u108109551 [10.71.56.0|get|0|1301|0|0|0|2f6c69622f6f776c6361726f7573656c2f6173736574732f6f776c2e7468656d652e677265656e2e637373|]
+Jan 24 16:09:06 10.71.56.0 u108109551 close "/lib/owlcarousel/assets/owl.theme.default.min.css" bytes read 936 written 0
+Jan 24 16:09:06 10.71.56.0 u108109551 [10.71.56.0|get|0|936|0|0|0|2f6c69622f6f776c6361726f7573656c2f6173736574732f6f776c2e7468656d652e64656661756c742e6d696e2e637373|]
+Jan 24 16:09:07 10.71.56.0 u108109551 open "/lib/owlcarousel/assets/owl.theme.default.css" flags READ mode 0666
+Jan 24 16:09:07 10.71.56.0 u108109551 open "/lib/owlcarousel/assets/owl.carousel.min.css" flags READ mode 0666
+Jan 24 16:09:07 10.71.56.0 u108109551 close "/lib/owlcarousel/assets/owl.theme.default.css" bytes read 1303 written 0
+Jan 24 16:09:07 10.71.56.0 u108109551 [10.71.56.0|get|0|1303|0|0|0|2f6c69622f6f776c6361726f7573656c2f6173736574732f6f776c2e7468656d652e64656661756c742e637373|]
+Jan 24 16:09:07 10.71.56.0 u108109551 close "/lib/owlcarousel/assets/owl.carousel.min.css" bytes read 2936 written 0
+Jan 24 16:09:07 10.71.56.0 u108109551 [10.71.56.0|get|0|2936|0|0|0|2f6c69622f6f776c6361726f7573656c2f6173736574732f6f776c2e6361726f7573656c2e6d696e2e637373|]
+Jan 24 16:09:07 10.71.56.0 u108109551 open "/lib/owlcarousel/assets/ajax-loader.gif" flags READ mode 0666
+Jan 24 16:09:07 10.71.56.0 u108109551 open "/lib/owlcarousel/assets/owl.carousel.css" flags READ mode 0666
+Jan 24 16:09:07 10.71.56.0 u108109551 close "/lib/owlcarousel/assets/ajax-loader.gif" bytes read 3208 written 0
+Jan 24 16:09:07 10.71.56.0 u108109551 [10.71.56.0|get|0|3208|0|0|0|2f6c69622f6f776c6361726f7573656c2f6173736574732f616a61782d6c6f616465722e676966|]
+Jan 24 16:09:07 10.71.56.0 u108109551 close "/lib/owlcarousel/assets/owl.carousel.css" bytes read 4028 written 0
+Jan 24 16:09:07 10.71.56.0 u108109551 [10.71.56.0|get|0|4028|0|0|0|2f6c69622f6f776c6361726f7573656c2f6173736574732f6f776c2e6361726f7573656c2e637373|]
+Jan 24 16:09:07 10.71.56.0 u108109551 open "/lib/typed/typed.min.js" flags READ mode 0666
+Jan 24 16:09:07 10.71.56.0 u108109551 open "/lib/typed/typed.js" flags READ mode 0666
+Jan 24 16:09:07 10.71.56.0 u108109551 close "/lib/typed/typed.min.js" bytes read 11749 written 0
+Jan 24 16:09:07 10.71.56.0 u108109551 [10.71.56.0|get|0|11749|0|0|0|2f6c69622f74797065642f74797065642e6d696e2e6a73|]
+Jan 24 16:09:07 10.71.56.0 u108109551 close "/lib/typed/typed.js" bytes read 32825 written 0
+Jan 24 16:09:07 10.71.56.0 u108109551 [10.71.56.0|get|0|32825|0|0|0|2f6c69622f74797065642f74797065642e6a73|]
+Jan 24 16:09:07 10.71.56.0 u108109551 open "/lib/waypoints/links.php" flags READ mode 0666
+Jan 24 16:09:08 10.71.56.0 u108109551 open "/lib/waypoints/waypoints.min.js" flags READ mode 0666
+Jan 24 16:09:08 10.71.56.0 u108109551 close "/lib/waypoints/links.php" bytes read 82 written 0
+Jan 24 16:09:08 10.71.56.0 u108109551 [10.71.56.0|get|1|82|0|0|0|2f6c69622f776179706f696e74732f6c696e6b732e706870|]
+Jan 24 16:09:08 10.71.56.0 u108109551 close "/lib/waypoints/waypoints.min.js" bytes read 9028 written 0
+Jan 24 16:09:08 10.71.56.0 u108109551 [10.71.56.0|get|0|9028|0|0|0|2f6c69622f776179706f696e74732f776179706f696e74732e6d696e2e6a73|]
+Jan 24 16:09:08 10.71.56.0 u108109551 open "/lib/wow/wow.min.js" flags READ mode 0666
+Jan 24 16:09:08 10.71.56.0 u108109551 open "/lib/wow/wow.js" flags READ mode 0666
+Jan 24 16:09:08 10.71.56.0 u108109551 close "/lib/wow/wow.min.js" bytes read 8159 written 0
+Jan 24 16:09:08 10.71.56.0 u108109551 [10.71.56.0|get|0|8159|0|0|0|2f6c69622f776f772f776f772e6d696e2e6a73|]
+Jan 24 16:09:08 10.71.56.0 u108109551 close "/lib/wow/wow.js" bytes read 17059 written 0
+Jan 24 16:09:08 10.71.56.0 u108109551 [10.71.56.0|get|0|17059|0|0|0|2f6c69622f776f772f776f772e6a73|]
+Jan 24 16:09:08 10.71.56.0 u108109551 open "/logs/access.log.03.2.gz" flags READ mode 0666
+Jan 24 16:09:08 10.71.56.0 u108109551 open "/logs/access.log.01.gz" flags READ mode 0666
+Jan 24 16:09:08 10.71.56.0 u108109551 close "/logs/access.log.03.2.gz" bytes read 1958 written 0
+Jan 24 16:09:08 10.71.56.0 u108109551 [10.71.56.0|get|0|1958|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e322e677a|]
+Jan 24 16:09:08 10.71.56.0 u108109551 close "/logs/access.log.01.gz" bytes read 10737 written 0
+Jan 24 16:09:08 10.71.56.0 u108109551 [10.71.56.0|get|0|10737|0|0|0|2f6c6f67732f6163636573732e6c6f672e30312e677a|]
+Jan 24 16:09:08 10.71.56.0 u108109551 open "/logs/sftp.log" flags READ mode 0666
+Jan 24 16:09:08 10.71.56.0 u108109551 open "/logs/access.log.50.gz" flags READ mode 0666
+Jan 24 16:09:08 10.71.56.0 u108109551 close "/logs/sftp.log" bytes read 87241 written 0
+Jan 24 16:09:08 10.71.56.0 u108109551 [10.71.56.0|get|0|87241|0|0|0|2f6c6f67732f736674702e6c6f67|]
+Jan 24 16:09:09 10.71.56.0 u108109551 close "/logs/access.log.50.gz" bytes read 9920 written 0
+Jan 24 16:09:09 10.71.56.0 u108109551 [10.71.56.0|get|1|9920|0|0|0|2f6c6f67732f6163636573732e6c6f672e35302e677a|]
+Jan 24 16:09:09 10.71.56.0 u108109551 open "/logs/access.log.03.7.gz" flags READ mode 0666
+Jan 24 16:09:09 10.71.56.0 u108109551 open "/logs/access.log.52.gz" flags READ mode 0666
+Jan 24 16:09:09 10.71.56.0 u108109551 close "/logs/access.log.03.7.gz" bytes read 2075 written 0
+Jan 24 16:09:09 10.71.56.0 u108109551 [10.71.56.0|get|0|2075|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e372e677a|]
+Jan 24 16:09:09 10.71.56.0 u108109551 open "/logs/access.log.48.gz" flags READ mode 0666
+Jan 24 16:09:09 10.71.56.0 u108109551 close "/logs/access.log.52.gz" bytes read 14191 written 0
+Jan 24 16:09:09 10.71.56.0 u108109551 [10.71.56.0|get|0|14191|0|0|0|2f6c6f67732f6163636573732e6c6f672e35322e677a|]
+Jan 24 16:09:09 10.71.56.0 u108109551 close "/logs/access.log.48.gz" bytes read 21069 written 0
+Jan 24 16:09:09 10.71.56.0 u108109551 [10.71.56.0|get|0|21069|0|0|0|2f6c6f67732f6163636573732e6c6f672e34382e677a|]
+Jan 24 16:09:09 10.71.56.0 u108109551 open "/logs/sftp.log.48.gz" flags READ mode 0666
+Jan 24 16:09:09 10.71.56.0 u108109551 open "/logs/access.log.03.6.gz" flags READ mode 0666
+Jan 24 16:09:09 10.71.56.0 u108109551 close "/logs/sftp.log.48.gz" bytes read 6852 written 0
+Jan 24 16:09:09 10.71.56.0 u108109551 [10.71.56.0|get|0|6852|0|0|0|2f6c6f67732f736674702e6c6f672e34382e677a|]
+Jan 24 16:09:09 10.71.56.0 u108109551 close "/logs/access.log.03.6.gz" bytes read 1590 written 0
+Jan 24 16:09:09 10.71.56.0 u108109551 [10.71.56.0|get|0|1590|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e362e677a|]
+Jan 24 16:09:09 10.71.56.0 u108109551 open "/logs/access.log.03.5.gz" flags READ mode 0666
+Jan 24 16:09:09 10.71.56.0 u108109551 open "/logs/access.log.04.1.gz" flags READ mode 0666
+Jan 24 16:09:09 10.71.56.0 u108109551 close "/logs/access.log.03.5.gz" bytes read 2480 written 0
+Jan 24 16:09:09 10.71.56.0 u108109551 [10.71.56.0|get|0|2480|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e352e677a|]
+Jan 24 16:09:09 10.71.56.0 u108109551 close "/logs/access.log.04.1.gz" bytes read 2094 written 0
+Jan 24 16:09:09 10.71.56.0 u108109551 [10.71.56.0|get|0|2094|0|0|0|2f6c6f67732f6163636573732e6c6f672e30342e312e677a|]
+Jan 24 16:09:09 10.71.56.0 u108109551 open "/logs/access.log.04.2" flags READ mode 0666
+Jan 24 16:09:09 10.71.56.0 u108109551 open "/logs/access.log.03.4.gz" flags READ mode 0666
+Jan 24 16:09:09 10.71.56.0 u108109551 close "/logs/access.log.04.2" bytes read 55847 written 0
+Jan 24 16:09:09 10.71.56.0 u108109551 [10.71.56.0|get|0|55847|0|0|0|2f6c6f67732f6163636573732e6c6f672e30342e32|]
+Jan 24 16:09:10 10.71.56.0 u108109551 close "/logs/access.log.03.4.gz" bytes read 2199 written 0
+Jan 24 16:09:10 10.71.56.0 u108109551 [10.71.56.0|get|1|2199|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e342e677a|]
+Jan 24 16:09:10 10.71.56.0 u108109551 open "/logs/access.log.03.1.gz" flags READ mode 0666
+Jan 24 16:09:10 10.71.56.0 u108109551 open "/logs/access.log.49.gz" flags READ mode 0666
+Jan 24 16:09:10 10.71.56.0 u108109551 close "/logs/access.log.03.1.gz" bytes read 1569 written 0
+Jan 24 16:09:10 10.71.56.0 u108109551 [10.71.56.0|get|0|1569|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e312e677a|]
+Jan 24 16:09:10 10.71.56.0 u108109551 close "/logs/access.log.49.gz" bytes read 11335 written 0
+Jan 24 16:09:10 10.71.56.0 u108109551 [10.71.56.0|get|0|11335|0|0|0|2f6c6f67732f6163636573732e6c6f672e34392e677a|]
+Jan 24 16:09:10 10.71.56.0 u108109551 open "/logs/access.log.02.gz" flags READ mode 0666
+Jan 24 16:09:10 10.71.56.0 u108109551 open "/logs/access.log.03.3.gz" flags READ mode 0666
+Jan 24 16:09:10 10.71.56.0 u108109551 close "/logs/access.log.02.gz" bytes read 11846 written 0
+Jan 24 16:09:10 10.71.56.0 u108109551 [10.71.56.0|get|0|11846|0|0|0|2f6c6f67732f6163636573732e6c6f672e30322e677a|]
+Jan 24 16:09:10 10.71.56.0 u108109551 close "/logs/access.log.03.3.gz" bytes read 1625 written 0
+Jan 24 16:09:10 10.71.56.0 u108109551 [10.71.56.0|get|0|1625|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e332e677a|]
+Jan 24 16:09:10 10.71.56.0 u108109551 open "/logs/access.log.51.gz" flags READ mode 0666
+Jan 24 16:09:10 10.71.56.0 u108109551 open "/logs/last_traffic" flags READ mode 0666
+Jan 24 16:09:10 10.71.56.0 u108109551 close "/logs/access.log.51.gz" bytes read 10418 written 0
+Jan 24 16:09:10 10.71.56.0 u108109551 [10.71.56.0|get|0|10418|0|0|0|2f6c6f67732f6163636573732e6c6f672e35312e677a|]
+Jan 24 16:09:10 10.71.56.0 u108109551 close "/logs/last_traffic" bytes read 0 written 0
+Jan 24 16:09:10 10.71.56.0 u108109551 [10.71.56.0|get|0|0|0|0|0|2f6c6f67732f6c6173745f74726166666963|]
+Jan 24 16:09:10 10.71.56.0 u108109551 open "/logs/traffic.db" flags READ mode 0666
+Jan 24 16:09:10 10.71.56.0 u108109551 open "/logs/info.py" flags READ mode 0666
+Jan 24 16:09:10 10.71.56.0 u108109551 close "/logs/traffic.db" bytes read 28672 written 0
+Jan 24 16:09:10 10.71.56.0 u108109551 [10.71.56.0|get|0|28672|0|0|0|2f6c6f67732f747261666669632e6462|]
+Jan 24 16:09:10 10.71.56.0 u108109551 close "/logs/info.py" bytes read 6384 written 0
+Jan 24 16:09:10 10.71.56.0 u108109551 [10.71.56.0|get|0|6384|0|0|0|2f6c6f67732f696e666f2e7079|]
+Jan 24 16:09:10 10.71.56.0 u108109551 open "/logs/info.php5" flags READ mode 0666
+Jan 24 16:09:11 10.71.56.0 u108109551 open "/logs/info.pl" flags READ mode 0666
+Jan 24 16:09:11 10.71.56.0 u108109551 close "/logs/info.php5" bytes read 21 written 0
+Jan 24 16:09:11 10.71.56.0 u108109551 [10.71.56.0|get|1|21|0|0|0|2f6c6f67732f696e666f2e70687035|]
+Jan 24 16:09:11 10.71.56.0 u108109551 close "/logs/info.pl" bytes read 4176 written 0
+Jan 24 16:09:11 10.71.56.0 u108109551 [10.71.56.0|get|0|4176|0|0|0|2f6c6f67732f696e666f2e706c|]
+Jan 24 16:09:11 10.71.56.0 u108109551 open "/logs/.htaccess" flags READ mode 0666
+Jan 24 16:09:11 10.71.56.0 u108109551 close "/logs/.htaccess" bytes read 268 written 0
+Jan 24 16:09:11 10.71.56.0 u108109551 [10.71.56.0|get|0|268|0|0|0|2f6c6f67732f2e6874616363657373|]
+Jan 24 16:09:11 10.71.56.0 u108109551 open "/logs/traffic.html/01.html" flags READ mode 0666
+Jan 24 16:09:11 10.71.56.0 u108109551 close "/logs/traffic.html/01.html" bytes read 7947 written 0
+Jan 24 16:09:11 10.71.56.0 u108109551 [10.71.56.0|get|0|7947|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30312e68746d6c|]
+Jan 24 16:09:11 10.71.56.0 u108109551 open "/logs/traffic.html/12.html" flags READ mode 0666
+Jan 24 16:09:11 10.71.56.0 u108109551 open "/logs/traffic.html/11.html" flags READ mode 0666
+Jan 24 16:09:11 10.71.56.0 u108109551 close "/logs/traffic.html/12.html" bytes read 9965 written 0
+Jan 24 16:09:11 10.71.56.0 u108109551 [10.71.56.0|get|0|9965|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31322e68746d6c|]
+Jan 24 16:09:11 10.71.56.0 u108109551 close "/logs/traffic.html/11.html" bytes read 9559 written 0
+Jan 24 16:09:11 10.71.56.0 u108109551 [10.71.56.0|get|0|9559|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31312e68746d6c|]
+Jan 24 16:09:11 10.71.56.0 u108109551 open "/logs/traffic.html/10.html" flags READ mode 0666
+Jan 24 16:09:11 10.71.56.0 u108109551 open "/logs/traffic.html/09.html" flags READ mode 0666
+Jan 24 16:09:11 10.71.56.0 u108109551 close "/logs/traffic.html/10.html" bytes read 9841 written 0
+Jan 24 16:09:11 10.71.56.0 u108109551 [10.71.56.0|get|0|9841|0|0|0|2f6c6f67732f747261666669632e68746d6c2f31302e68746d6c|]
+Jan 24 16:09:11 10.71.56.0 u108109551 close "/logs/traffic.html/09.html" bytes read 9543 written 0
+Jan 24 16:09:11 10.71.56.0 u108109551 [10.71.56.0|get|0|9543|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30392e68746d6c|]
+Jan 24 16:09:11 10.71.56.0 u108109551 open "/logs/traffic.html/08.html" flags READ mode 0666
+Jan 24 16:09:12 10.71.56.0 u108109551 open "/logs/traffic.html/07.html" flags READ mode 0666
+Jan 24 16:09:12 10.71.56.0 u108109551 close "/logs/traffic.html/08.html" bytes read 9833 written 0
+Jan 24 16:09:12 10.71.56.0 u108109551 [10.71.56.0|get|1|9833|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30382e68746d6c|]
+Jan 24 16:09:12 10.71.56.0 u108109551 close "/logs/traffic.html/07.html" bytes read 9841 written 0
+Jan 24 16:09:12 10.71.56.0 u108109551 [10.71.56.0|get|0|9841|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30372e68746d6c|]
+Jan 24 16:09:12 10.71.56.0 u108109551 open "/logs/traffic.html/06.html" flags READ mode 0666
+Jan 24 16:09:12 10.71.56.0 u108109551 open "/logs/traffic.html/05.html" flags READ mode 0666
+Jan 24 16:09:12 10.71.56.0 u108109551 close "/logs/traffic.html/06.html" bytes read 9599 written 0
+Jan 24 16:09:12 10.71.56.0 u108109551 [10.71.56.0|get|0|9599|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30362e68746d6c|]
+Jan 24 16:09:12 10.71.56.0 u108109551 close "/logs/traffic.html/05.html" bytes read 9937 written 0
+Jan 24 16:09:12 10.71.56.0 u108109551 [10.71.56.0|get|0|9937|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30352e68746d6c|]
+Jan 24 16:09:12 10.71.56.0 u108109551 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Jan 24 16:09:12 10.71.56.0 u108109551 sent status Permission denied
+Jan 24 16:09:12 10.71.56.0 u108109551 open "/logs/traffic.html/04.html" flags READ mode 0666
+Jan 24 16:09:12 10.71.56.0 u108109551 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Jan 24 16:09:12 10.71.56.0 u108109551 sent status Permission denied
+Jan 24 16:09:12 10.71.56.0 u108109551 close "/logs/traffic.html/04.html" bytes read 5061 written 0
+Jan 24 16:09:12 10.71.56.0 u108109551 [10.71.56.0|get|0|5061|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30342e68746d6c|]
+Jan 24 16:09:12 10.71.56.0 u108109551 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Jan 24 16:09:12 10.71.56.0 u108109551 sent status Permission denied
+Jan 24 16:09:12 10.71.56.0 u108109551 open "/logs/traffic.html/index.html" flags READ mode 0666
+Jan 24 16:09:12 10.71.56.0 u108109551 open "/logs/traffic.html/.htaccess" flags READ mode 0666
+Jan 24 16:09:12 10.71.56.0 u108109551 close "/logs/traffic.html/index.html" bytes read 6143 written 0
+Jan 24 16:09:12 10.71.56.0 u108109551 [10.71.56.0|get|0|6143|0|0|0|2f6c6f67732f747261666669632e68746d6c2f696e6465782e68746d6c|]
+Jan 24 16:09:12 10.71.56.0 u108109551 close "/logs/traffic.html/.htaccess" bytes read 23 written 0
+Jan 24 16:09:12 10.71.56.0 u108109551 [10.71.56.0|get|0|23|0|0|0|2f6c6f67732f747261666669632e68746d6c2f2e6874616363657373|]
+Jan 24 16:09:13 10.71.56.0 u108109551 open "/logs/access.log.04.2" flags READ mode 0666
+Jan 24 16:09:13 10.71.56.0 u108109551 open "/mail/jqBootstrapValidation.min.js" flags READ mode 0666
+Jan 24 16:09:13 10.71.56.0 u108109551 close "/logs/access.log.04.2" bytes read 55847 written 0
+Jan 24 16:09:13 10.71.56.0 u108109551 [10.71.56.0|get|0|55847|0|0|0|2f6c6f67732f6163636573732e6c6f672e30342e32|]
+Jan 24 16:09:13 10.71.56.0 u108109551 close "/mail/jqBootstrapValidation.min.js" bytes read 14877 written 0
+Jan 24 16:09:13 10.71.56.0 u108109551 [10.71.56.0|get|0|14877|0|0|0|2f6d61696c2f6a71426f6f74737472617056616c69646174696f6e2e6d696e2e6a73|]
+Jan 24 16:09:13 10.71.56.0 u108109551 open "/mail/contact.js" flags READ mode 0666
+Jan 24 16:09:13 10.71.56.0 u108109551 open "/mail/contact.php" flags READ mode 0666
+Jan 24 16:09:13 10.71.56.0 u108109551 close "/mail/contact.js" bytes read 2598 written 0
+Jan 24 16:09:13 10.71.56.0 u108109551 [10.71.56.0|get|0|2598|0|0|0|2f6d61696c2f636f6e746163742e6a73|]
+Jan 24 16:09:13 10.71.56.0 u108109551 close "/mail/contact.php" bytes read 789 written 0
+Jan 24 16:09:13 10.71.56.0 u108109551 [10.71.56.0|get|0|789|0|0|0|2f6d61696c2f636f6e746163742e706870|]
+Jan 24 16:09:57 10.71.56.0 u108109551 session closed for local user u108109551 from [10.71.56.0]
+Jan 24 16:09:57 10.71.56.0 u108109551 session closed for local user u108109551 from [10.71.56.0]
+Jan 24 16:09:57 10.71.56.0 u108109551 Connection closed by 10.71.56.0 port 63062
+Jan 24 16:09:57 10.71.56.0 u108109551 Connection closed by 10.71.56.0 port 63388
+Jan 24 16:09:57 10.71.56.0 u108109551 Connection closed by 10.71.56.0 port 62356
+Jan 24 16:09:57 10.71.56.0 u108109551 session closed for local user u108109551 from [10.71.56.0]
+Jan 24 16:13:18 10.71.56.0 u108109551 Connection from 10.71.56.0 port 64836 on 82.165.88.218 port 22
+Jan 24 16:13:18 10.71.56.0 u108109551 Accepted password for u108109551 from 10.71.56.0 port 64836 ssh2
+Jan 24 16:13:18 10.71.56.0 u108109551 Starting session: subsystem 'sftp' for u108109551 from 10.71.56.0 port 64836 id 0
+Jan 24 16:13:18 10.71.56.0 u108109551 session opened for local user u108109551 from [10.71.56.0]
+Jan 24 16:13:18 10.71.56.0 u108109551 sent status No such file
+Jan 24 16:13:40 10.71.56.0 u108109551 open "/index.html" flags READ mode 0666
+Jan 24 16:13:40 10.71.56.0 u108109551 open "/LICENSE.txt" flags READ mode 0666
+Jan 24 16:13:40 10.71.56.0 u108109551 open "/READ-ME.txt" flags READ mode 0666
+Jan 24 16:13:40 10.71.56.0 u108109551 open "/construccion/index.html" flags READ mode 0666
+Jan 24 16:13:40 10.71.56.0 u108109551 close "/index.html" bytes read 48950 written 0
+Jan 24 16:13:40 10.71.56.0 u108109551 [10.71.56.0|get|0|48950|0|0|0|2f696e6465782e68746d6c|]
+Jan 24 16:13:40 10.71.56.0 u108109551 close "/LICENSE.txt" bytes read 1309 written 0
+Jan 24 16:13:40 10.71.56.0 u108109551 [10.71.56.0|get|0|1309|0|0|0|2f4c4943454e53452e747874|]
+Jan 24 16:13:40 10.71.56.0 u108109551 close "/READ-ME.txt" bytes read 547 written 0
+Jan 24 16:13:40 10.71.56.0 u108109551 [10.71.56.0|get|0|547|0|0|0|2f524541442d4d452e747874|]
+Jan 24 16:13:40 10.71.56.0 u108109551 open "/construccion/jquery-1.9.1.min.js" flags READ mode 0666
+Jan 24 16:13:40 10.71.56.0 u108109551 open "/construccion/nicepage.css" flags READ mode 0666
+Jan 24 16:13:40 10.71.56.0 u108109551 open "/construccion/nicepage.js" flags READ mode 0666
+Jan 24 16:13:40 10.71.56.0 u108109551 close "/construccion/index.html" bytes read 3174 written 0
+Jan 24 16:13:40 10.71.56.0 u108109551 [10.71.56.0|get|0|3174|0|0|0|2f636f6e737472756363696f6e2f696e6465782e68746d6c|]
+Jan 24 16:13:40 10.71.56.0 u108109551 open "/construccion/Page-8.css" flags READ mode 0666
+Jan 24 16:13:41 10.71.56.0 u108109551 close "/construccion/Page-8.css" bytes read 954 written 0
+Jan 24 16:13:41 10.71.56.0 u108109551 [10.71.56.0|get|1|954|0|0|0|2f636f6e737472756363696f6e2f506167652d382e637373|]
+Jan 24 16:13:41 10.71.56.0 u108109551 close "/construccion/jquery-1.9.1.min.js" bytes read 92629 written 0
+Jan 24 16:13:41 10.71.56.0 u108109551 [10.71.56.0|get|1|92629|0|0|0|2f636f6e737472756363696f6e2f6a71756572792d312e392e312e6d696e2e6a73|]
+Jan 24 16:13:41 10.71.56.0 u108109551 open "/construccion/Password-Template.css" flags READ mode 0666
+Jan 24 16:13:41 10.71.56.0 u108109551 open "/logs/.htaccess" flags READ mode 0666
+Jan 24 16:13:41 10.71.56.0 u108109551 close "/construccion/Password-Template.css" bytes read 683 written 0
+Jan 24 16:13:41 10.71.56.0 u108109551 [10.71.56.0|get|0|683|0|0|0|2f636f6e737472756363696f6e2f50617373776f72642d54656d706c6174652e637373|]
+Jan 24 16:13:41 10.71.56.0 u108109551 close "/logs/.htaccess" bytes read 268 written 0
+Jan 24 16:13:41 10.71.56.0 u108109551 [10.71.56.0|get|0|268|0|0|0|2f6c6f67732f2e6874616363657373|]
+Jan 24 16:13:41 10.71.56.0 u108109551 open "/logs/info.pl" flags READ mode 0666
+Jan 24 16:13:41 10.71.56.0 u108109551 open "/logs/info.php5" flags READ mode 0666
+Jan 24 16:13:41 10.71.56.0 u108109551 close "/construccion/nicepage.js" bytes read 241000 written 0
+Jan 24 16:13:41 10.71.56.0 u108109551 [10.71.56.0|get|1|241000|0|0|0|2f636f6e737472756363696f6e2f6e696365706167652e6a73|]
+Jan 24 16:13:41 10.71.56.0 u108109551 open "/logs/info.py" flags READ mode 0666
+Jan 24 16:13:41 10.71.56.0 u108109551 close "/logs/info.pl" bytes read 4176 written 0
+Jan 24 16:13:41 10.71.56.0 u108109551 [10.71.56.0|get|0|4176|0|0|0|2f6c6f67732f696e666f2e706c|]
+Jan 24 16:13:41 10.71.56.0 u108109551 close "/logs/info.php5" bytes read 21 written 0
+Jan 24 16:13:41 10.71.56.0 u108109551 [10.71.56.0|get|0|21|0|0|0|2f6c6f67732f696e666f2e70687035|]
+Jan 24 16:13:41 10.71.56.0 u108109551 open "/logs/traffic.db" flags READ mode 0666
+Jan 24 16:13:41 10.71.56.0 u108109551 open "/logs/last_traffic" flags READ mode 0666
+Jan 24 16:13:41 10.71.56.0 u108109551 close "/logs/info.py" bytes read 6384 written 0
+Jan 24 16:13:41 10.71.56.0 u108109551 [10.71.56.0|get|0|6384|0|0|0|2f6c6f67732f696e666f2e7079|]
+Jan 24 16:13:41 10.71.56.0 u108109551 open "/logs/access.log.51.gz" flags READ mode 0666
+Jan 24 16:13:41 10.71.56.0 u108109551 close "/logs/last_traffic" bytes read 0 written 0
+Jan 24 16:13:41 10.71.56.0 u108109551 [10.71.56.0|get|0|0|0|0|0|2f6c6f67732f6c6173745f74726166666963|]
+Jan 24 16:13:41 10.71.56.0 u108109551 open "/logs/access.log.03.3.gz" flags READ mode 0666
+Jan 24 16:13:41 10.71.56.0 u108109551 close "/logs/traffic.db" bytes read 28672 written 0
+Jan 24 16:13:41 10.71.56.0 u108109551 [10.71.56.0|get|0|28672|0|0|0|2f6c6f67732f747261666669632e6462|]
+Jan 24 16:13:41 10.71.56.0 u108109551 open "/logs/access.log.02.gz" flags READ mode 0666
+Jan 24 16:13:41 10.71.56.0 u108109551 close "/logs/access.log.51.gz" bytes read 10418 written 0
+Jan 24 16:13:41 10.71.56.0 u108109551 [10.71.56.0|get|0|10418|0|0|0|2f6c6f67732f6163636573732e6c6f672e35312e677a|]
+Jan 24 16:13:41 10.71.56.0 u108109551 close "/logs/access.log.03.3.gz" bytes read 1625 written 0
+Jan 24 16:13:41 10.71.56.0 u108109551 [10.71.56.0|get|0|1625|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e332e677a|]
+Jan 24 16:13:41 10.71.56.0 u108109551 open "/logs/access.log.49.gz" flags READ mode 0666
+Jan 24 16:13:41 10.71.56.0 u108109551 open "/logs/access.log.03.1.gz" flags READ mode 0666
+Jan 24 16:13:41 10.71.56.0 u108109551 close "/logs/access.log.02.gz" bytes read 11846 written 0
+Jan 24 16:13:41 10.71.56.0 u108109551 [10.71.56.0|get|0|11846|0|0|0|2f6c6f67732f6163636573732e6c6f672e30322e677a|]
+Jan 24 16:13:41 10.71.56.0 u108109551 open "/logs/access.log.03.4.gz" flags READ mode 0666
+Jan 24 16:13:41 10.71.56.0 u108109551 close "/logs/access.log.49.gz" bytes read 11335 written 0
+Jan 24 16:13:41 10.71.56.0 u108109551 [10.71.56.0|get|0|11335|0|0|0|2f6c6f67732f6163636573732e6c6f672e34392e677a|]
+Jan 24 16:13:41 10.71.56.0 u108109551 open "/logs/access.log.04.2" flags READ mode 0666
+Jan 24 16:13:41 10.71.56.0 u108109551 close "/logs/access.log.03.1.gz" bytes read 1569 written 0
+Jan 24 16:13:41 10.71.56.0 u108109551 [10.71.56.0|get|0|1569|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e312e677a|]
+Jan 24 16:13:41 10.71.56.0 u108109551 open "/logs/access.log.04.1.gz" flags READ mode 0666
+Jan 24 16:13:41 10.71.56.0 u108109551 close "/logs/access.log.03.4.gz" bytes read 2199 written 0
+Jan 24 16:13:41 10.71.56.0 u108109551 [10.71.56.0|get|0|2199|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e342e677a|]
+Jan 24 16:13:41 10.71.56.0 u108109551 open "/logs/access.log.03.5.gz" flags READ mode 0666
+Jan 24 16:13:41 10.71.56.0 u108109551 close "/logs/access.log.04.2" bytes read 55847 written 0
+Jan 24 16:13:41 10.71.56.0 u108109551 [10.71.56.0|get|0|55847|0|0|0|2f6c6f67732f6163636573732e6c6f672e30342e32|]
+Jan 24 16:13:41 10.71.56.0 u108109551 open "/logs/access.log.03.6.gz" flags READ mode 0666
+Jan 24 16:13:41 10.71.56.0 u108109551 close "/logs/access.log.04.1.gz" bytes read 2094 written 0
+Jan 24 16:13:41 10.71.56.0 u108109551 [10.71.56.0|get|0|2094|0|0|0|2f6c6f67732f6163636573732e6c6f672e30342e312e677a|]
+Jan 24 16:13:41 10.71.56.0 u108109551 close "/logs/access.log.03.5.gz" bytes read 2480 written 0
+Jan 24 16:13:41 10.71.56.0 u108109551 [10.71.56.0|get|0|2480|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e352e677a|]
+Jan 24 16:13:41 10.71.56.0 u108109551 open "/logs/sftp.log.48.gz" flags READ mode 0666
+Jan 24 16:13:41 10.71.56.0 u108109551 open "/logs/access.log.48.gz" flags READ mode 0666
+Jan 24 16:13:41 10.71.56.0 u108109551 close "/logs/access.log.03.6.gz" bytes read 1590 written 0
+Jan 24 16:13:41 10.71.56.0 u108109551 [10.71.56.0|get|0|1590|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e362e677a|]
+Jan 24 16:13:41 10.71.56.0 u108109551 open "/logs/access.log.52.gz" flags READ mode 0666
+Jan 24 16:13:41 10.71.56.0 u108109551 close "/logs/sftp.log.48.gz" bytes read 6852 written 0
+Jan 24 16:13:41 10.71.56.0 u108109551 [10.71.56.0|get|0|6852|0|0|0|2f6c6f67732f736674702e6c6f672e34382e677a|]
+Jan 24 16:13:41 10.71.56.0 u108109551 open "/logs/access.log.03.7.gz" flags READ mode 0666
+Jan 24 16:13:41 10.71.56.0 u108109551 close "/logs/access.log.48.gz" bytes read 21069 written 0
+Jan 24 16:13:41 10.71.56.0 u108109551 [10.71.56.0|get|0|21069|0|0|0|2f6c6f67732f6163636573732e6c6f672e34382e677a|]
+Jan 24 16:13:41 10.71.56.0 u108109551 open "/logs/access.log.50.gz" flags READ mode 0666
+Jan 24 16:13:42 10.71.56.0 u108109551 close "/logs/access.log.52.gz" bytes read 14191 written 0
+Jan 24 16:13:42 10.71.56.0 u108109551 [10.71.56.0|get|1|14191|0|0|0|2f6c6f67732f6163636573732e6c6f672e35322e677a|]
+Jan 24 16:13:42 10.71.56.0 u108109551 open "/logs/sftp.log" flags READ mode 0666
+Jan 24 16:13:42 10.71.56.0 u108109551 close "/logs/access.log.03.7.gz" bytes read 2075 written 0
+Jan 24 16:13:42 10.71.56.0 u108109551 [10.71.56.0|get|1|2075|0|0|0|2f6c6f67732f6163636573732e6c6f672e30332e372e677a|]
+Jan 24 16:13:42 10.71.56.0 u108109551 close "/logs/access.log.50.gz" bytes read 9920 written 0
+Jan 24 16:13:42 10.71.56.0 u108109551 [10.71.56.0|get|1|9920|0|0|0|2f6c6f67732f6163636573732e6c6f672e35302e677a|]
+Jan 24 16:13:42 10.71.56.0 u108109551 open "/logs/access.log.01.gz" flags READ mode 0666
+Jan 24 16:13:42 10.71.56.0 u108109551 open "/logs/access.log.03.2.gz" flags READ mode 0666
+Jan 24 16:13:42 10.71.56.0 u108109551 close "/construccion/nicepage.css" bytes read 1238282 written 0
+Jan 24 16:13:42 10.71.56.0 u108109551 [10.71.56.0|get|2|1238282|0|0|0|2f636f6e737472756363696f6e2f6e696365706167652e637373|]
+Jan 24 16:13:42 10.71.56.0 u108109551 open "/img/blog-1.jpg" flags READ mode 0666
