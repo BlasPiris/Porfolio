@@ -1,5 +1,6 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@300&family=Cairo:wght@200&display=swap');
 
 /*******************************/
 /********* General CSS *********/
@@ -7,7 +8,7 @@
 body {
     color: #797979;
     background: #ffffff;
-    font-family: 'Cairo', sans-serif;
+    font-family: 'Antonio', sans-serif;
 }
 
 h1,
@@ -198,7 +199,7 @@ a:focus {
     .navbar-light .navbar-nav .nav-link:focus {
         padding: 10px 10px 8px 10px;
         color: #ffffff;
-        font-size: 15px;
+        font-size: 20px;
         font-weight: 500;
     }
     
@@ -333,6 +334,32 @@ a:focus {
     margin-right: 10px;
 }
 
+.hero .contact-social {
+    display: flex;
+    justify-content:space-around;
+    margin-top: 15px;
+}
+
+.hero .contact-social a {
+    display: inline-block;
+}
+
+.hero .contact-social a i {
+    margin-right: 15px;
+    font-size: 25px;
+    color: #ffffff;
+    transition: .3s;
+}
+
+.hero .contact-social a:last-child i {
+    margin: 0;
+}
+
+.hero .contact-social a:hover i {
+    color: #414141;
+}
+
+
 @media (max-width: 991.98px) {
     .hero {
         padding-top: 60px;
@@ -391,6 +418,12 @@ a:focus {
         padding: 10px 15px;
         letter-spacing: 1px;
     }
+
+    .hero .contact-social {
+        display: flex;
+        justify-content:center;
+        margin-top: 15px;
+    }
 }
 
 @media (max-width: 575.98px) {
@@ -410,6 +443,12 @@ a:focus {
     .hero .hero-btn .btn {
         padding: 8px 10px;
         letter-spacing: 0;
+    }
+
+    .hero .contact-social {
+        display: flex;
+        justify-content:center;
+        margin-top: 15px;
     }
 }
 
@@ -1381,6 +1420,7 @@ a:focus {
 }
 
 .contact .contact-info h2 {
+    margin-top: 20px;
     margin-bottom: 20px;
     font-size: 30px;
     font-weight: 700;
@@ -1395,7 +1435,7 @@ a:focus {
 }
 
 .contact .contact-info p {
-    
+    font-size: 18px;
     color: #ffffff;
 }
 
@@ -1520,7 +1560,7 @@ a:focus {
     margin-top: 0;
     border-top: 1px dashed rgba(256, 256, 256, .2);
     /* border-bottom:  */
-    background: #ff9100;
+    background: #ffffff;
 }
 
 .footer .container-fluid {
@@ -1593,7 +1633,7 @@ a:focus {
 .footer .copyright {
     position: relative;
     text-align: center;
-    margin-top: 30px;
+    
     padding-top: 25px;
     padding-bottom: 25px;
 }
@@ -1610,7 +1650,7 @@ a:focus {
 
 .footer .copyright p {
     margin: 0;
-    color: #ffffff;
+    color: #414141;
 }
 
 .footer .copyright .col-md-6:last-child p {
@@ -1618,7 +1658,7 @@ a:focus {
 }
 
 .footer .copyright p a {
-    color: #ffffff;
+    color: #414141;
     font-weight: 600;
 }
 
