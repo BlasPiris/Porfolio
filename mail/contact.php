@@ -32,14 +32,14 @@ try {
   $mail->Host       = 'smtp.ionos.es';                     //Set the SMTP server to send through
   $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
   $mail->Username   = 'bpiris@mrpelon.com';                     //SMTP username
-  $mail->Password   = 'Mrpelon123';                               //SMTP password
+  $mail->Password   = 'Mrpelon123.';                               //SMTP password
   $mail->SMTPSecure = 'tls';            //Enable implicit TLS encryption
   $mail->Port       = 587;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
   
   //Recipients
   $mail->setFrom('bpiris@mrpelon.com', 'MRPELON');
-  $mail->addAddress($email);     //Add a recipient
+  $mail->addAddress("bpirisr@gmail.com");     //Add a recipient
   // $mail->addAddress('ellen@example.com');               //Name is optional
   // $mail->addReplyTo('info@example.com', 'Information');
   // $mail->addCC('cc@example.com');
