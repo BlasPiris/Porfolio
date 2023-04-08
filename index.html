@@ -802,13 +802,13 @@
                         <div class="col-md-8">
                             <div class="contact-form">
                                 <div id="success"></div>
-                                <form name="sentMessage" id="contactForm" novalidate="novalidate">
+                                <form   action="https://formspree.io/f/mnqyonwg" method="POST">
                                     <div class="control-group">
                                         <input type="text" class="form-control" id="name" placeholder="Nombre" required="required" data-validation-required-message="Introduce tu nombre" />
                                         <p class="help-block"></p>
                                     </div>
                                     <div class="control-group">
-                                        <input type="email" class="form-control" id="email" placeholder="Correo" required="required" data-validation-required-message="Introduce tu email" />
+                                        <input type="email"name="email" class="form-control" id="email" placeholder="Correo" required="required" data-validation-required-message="Introduce tu email" />
                                         <p class="help-block"></p>
                                     </div>
                                     <div class="control-group">
@@ -816,11 +816,11 @@
                                         <p class="help-block"></p>
                                     </div>
                                     <div class="control-group">
-                                        <textarea class="form-control" id="message" placeholder="Mensaje" required="required" data-validation-required-message="Introduce el mensaje"></textarea>
+                                        <textarea class="form-control" name="message" id="message" placeholder="Mensaje" required="required" data-validation-required-message="Introduce el mensaje"></textarea>
                                         <p class="help-block"></p>
                                     </div>
                                     <div>
-                                        <button class="btn" type="submit" id="sendMessageButton">Enviar</button>
+                                        <button class="btn" type="submit" >Enviar</button>
                                     </div>
                                 </form>
                             </div>
