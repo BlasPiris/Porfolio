@@ -94,7 +94,7 @@ a:focus {
     position: relative;
     width: 45px;
     height: 45px;
-    border: 5px solid #dddddd;
+    border: 5px solid #ff9100;
     border-top: 5px solid #ff9100;
     border-radius: 50%;
     -webkit-animation: spin 2s linear infinite;
@@ -569,7 +569,7 @@ a:focus {
 .about .progress {
     height: 10px;
     border-radius: 10px;
-    background: #dddddd;
+    background: #ff9100;
 }
 
 .about .progress .progress-bar {
@@ -691,13 +691,13 @@ a:focus {
     padding: 30px;
     background: #ffffff;
     position: relative;
-    border-right: 5px solid #dddddd;
+    border-right: 5px solid #ff9100;
     box-shadow: 0 0 60px rgba(0, 0, 0, .08);
 }
 
 .experience .timeline .timeline-item.right .timeline-text {
     border-right: none;
-    border-left: 5px solid #dddddd;
+    border-left: 5px solid #ff9100;
 }
 
 .experience .timeline .timeline-text h2 {
@@ -745,7 +745,7 @@ a:focus {
     .experience .timeline .timeline-item.left::before,
     .experience .timeline .timeline-item.right::before {
         left: 18px;
-        border-color: transparent #dddddd transparent transparent;
+        border-color: transparent #ff9100 transparent transparent;
     }
     
     .experience .timeline .timeline-item.left .timeline-date,
@@ -761,7 +761,7 @@ a:focus {
     .experience .timeline .timeline-item.left .timeline-text,
     .experience .timeline .timeline-item.right .timeline-text {
         border-right: none;
-        border-left: 5px solid #dddddd;
+        border-left: 5px solid #ff9100;
     }
 }
 
