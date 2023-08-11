@@ -657,12 +657,12 @@ a:focus {
   right: 10px;
   z-index: 1;
   border: 10px solid;
-  border-color: transparent transparent transparent #dddddd;
+  border-color: transparent transparent transparent #ff9100;
 }
 
 .experience .timeline .timeline-item.right::before {
   left: 10px;
-  border-color: transparent #dddddd transparent transparent;
+  border-color: transparent #ff9100 transparent transparent;
 }
 
 .experience .timeline .timeline-date {
