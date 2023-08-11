@@ -1153,6 +1153,8 @@ a:focus {
 .team .team-img {
     position: relative;
     width: 50%;
+    padding: 10px;
+    background-color: white;
     overflow: hidden;
 }
 
@@ -1160,6 +1162,7 @@ a:focus {
     position: relative;
     width: 100%;
     transition: .5s;
+    
 }
 
 .team .team-text {
@@ -1173,14 +1176,14 @@ a:focus {
     font-size: 18px;
     font-weight: 600;
     margin-bottom: 5px;
-    transition: 1s;
+    transition: 0.2s;
 }
 
 .team .team-text h4 {
     font-size: 14px;
     font-weight: 600;
     margin-bottom: 15px;
-    transition: 1s;
+    transition: 0.2s;
 }
 
 .team .team-text p {
@@ -1212,7 +1215,7 @@ a:focus {
 }
 
 .team .team-item:hover .team-img img {
-    transform: scale(1.2);
+    /* transform: scale(1.2); */
 }
 
 .team .team-item:hover .team-text h2,
