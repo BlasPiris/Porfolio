@@ -1154,6 +1154,7 @@ a:focus {
 }
 
 .team .team-item {
+    padding: 5px;
     position: relative;
     background: #ffffff;
     margin-bottom: 30px;
